@@ -1,0 +1,49 @@
+Power BI suggested model
+
+Tables:
+- customers (1) -> orders (*)
+- customers (1) -> customer_engagement (*)
+
+Recommended measures:
+
+Total Revenue =
+CALCULATE(SUM(orders[net_amount]), orders[order_status] = "Completed")
+
+Completed Orders =
+CALCULATE(COUNTROWS(orders), orders[order_status] = "Completed")
+
+Total Customers =
+DISTINCTCOUNT(customers[customer_id])
+
+Churned Customers =
+CALCULATE(
+    DISTINCTCOUNT(customers[customer_id]),
+    customers[status] = "Churned"
+)
+
+Churn Rate =
+DIVIDE([Churned Customers], [Total Customers])
+
+Average Order Value =
+DIVIDE([Total Revenue], [Completed Orders])
+
+Suggested dashboard pages:
+1. Executive Overview
+   - Total Revenue
+   - Customers
+   - Churn Rate
+   - Average Order Value
+   - Monthly Revenue line chart
+2. Customer & Churn Analysis
+   - Churn rate by segment
+   - Churn rate by acquisition channel
+   - Churn reason distribution
+   - Region/plan slicers
+3. Revenue Analysis
+   - Revenue by product
+   - Revenue by segment
+   - Top 10 customers
+4. Customer Risk
+   - Customer risk table
+   - Average sessions vs support tickets
+   - Churned vs active customers

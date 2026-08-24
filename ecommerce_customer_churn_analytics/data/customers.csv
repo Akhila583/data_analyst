@@ -1,0 +1,1201 @@
+customer_id,segment,region,acquisition_channel,plan,signup_date,status,churn_date,churn_reason
+C00001,Consumer,West,Paid Search,Basic,2026-02-07,Churned,2026-04-22,Poor Experience
+C00002,Enterprise,South,Organic,Pro,2025-02-26,Active,,
+C00003,SMB,South,Paid Search,Basic,2026-03-04,Active,,
+C00004,SMB,North,Paid Search,Basic,2026-04-27,Active,,
+C00005,Consumer,North,Referral,Basic,2025-10-18,Active,,
+C00006,Consumer,West,Referral,Basic,2025-04-24,Active,,
+C00007,Consumer,West,Paid Search,Premium,2026-01-16,Active,,
+C00008,Enterprise,North,Organic,Basic,2026-01-20,Active,,
+C00009,SMB,South,Partner,Premium,2025-11-04,Churned,2026-04-30,Price
+C00010,SMB,East,Paid Search,Premium,2025-12-07,Churned,2026-04-26,Low Usage
+C00011,Consumer,North,Referral,Pro,2026-04-22,Churned,2026-03-12,Poor Experience
+C00012,Enterprise,North,Organic,Basic,2025-07-17,Active,,
+C00013,SMB,South,Paid Search,Basic,2026-02-25,Active,,
+C00014,Consumer,West,Organic,Pro,2025-11-17,Churned,2026-02-27,Poor Experience
+C00015,Consumer,West,Referral,Basic,2025-06-28,Active,,
+C00016,Consumer,South,Partner,Basic,2026-01-20,Active,,
+C00017,Consumer,South,Paid Search,Pro,2025-08-07,Active,,
+C00018,Consumer,West,Organic,Premium,2025-10-04,Churned,2026-04-07,Low Usage
+C00019,Consumer,West,Organic,Pro,2026-03-13,Active,,
+C00020,Consumer,South,Paid Search,Basic,2025-01-16,Churned,2026-02-24,Low Usage
+C00021,SMB,East,Organic,Pro,2026-01-14,Churned,2026-06-29,Price
+C00022,Consumer,South,Organic,Basic,2025-03-02,Active,,
+C00023,Consumer,North,Social,Basic,2025-02-23,Active,,
+C00024,Consumer,East,Paid Search,Premium,2025-06-17,Active,,
+C00025,Consumer,North,Paid Search,Basic,2025-01-26,Active,,
+C00026,SMB,West,Partner,Basic,2025-12-02,Active,,
+C00027,Consumer,North,Organic,Basic,2026-04-21,Churned,2026-05-30,Competitor
+C00028,Consumer,South,Partner,Premium,2025-03-06,Active,,
+C00029,SMB,East,Paid Search,Pro,2025-04-10,Churned,2026-02-23,Price
+C00030,Consumer,North,Partner,Pro,2025-03-15,Active,,
+C00031,SMB,East,Referral,Pro,2025-07-11,Active,,
+C00032,Consumer,South,Social,Basic,2025-06-20,Active,,
+C00033,Consumer,South,Partner,Pro,2025-09-30,Churned,2026-04-23,Competitor
+C00034,Enterprise,South,Paid Search,Basic,2026-01-12,Active,,
+C00035,Enterprise,West,Partner,Basic,2025-07-06,Active,,
+C00036,SMB,North,Paid Search,Pro,2025-01-23,Active,,
+C00037,Consumer,East,Paid Search,Premium,2026-01-26,Active,,
+C00038,Consumer,North,Paid Search,Basic,2026-03-04,Active,,
+C00039,SMB,East,Referral,Basic,2025-06-30,Churned,2026-02-27,Price
+C00040,Consumer,South,Organic,Basic,2025-11-23,Active,,
+C00041,Consumer,East,Referral,Basic,2025-04-18,Churned,2026-06-21,Price
+C00042,Consumer,West,Referral,Premium,2025-12-01,Active,,
+C00043,Consumer,West,Social,Pro,2025-06-11,Active,,
+C00044,Enterprise,East,Social,Pro,2025-10-29,Active,,
+C00045,Consumer,West,Paid Search,Pro,2026-03-28,Active,,
+C00046,SMB,West,Paid Search,Basic,2025-07-25,Active,,
+C00047,Consumer,South,Organic,Pro,2025-03-19,Active,,
+C00048,Consumer,South,Organic,Pro,2025-01-16,Active,,
+C00049,Consumer,East,Organic,Pro,2025-11-23,Churned,2026-02-21,Support Issues
+C00050,Consumer,West,Paid Search,Premium,2025-04-06,Active,,
+C00051,Enterprise,West,Organic,Pro,2025-05-27,Active,,
+C00052,SMB,North,Partner,Basic,2025-01-02,Active,,
+C00053,Enterprise,South,Referral,Premium,2025-01-10,Active,,
+C00054,Enterprise,South,Paid Search,Basic,2026-03-10,Active,,
+C00055,SMB,West,Referral,Basic,2025-05-05,Active,,
+C00056,Enterprise,North,Organic,Basic,2025-03-22,Active,,
+C00057,Consumer,South,Paid Search,Basic,2026-04-30,Active,,
+C00058,Consumer,North,Referral,Pro,2025-05-20,Churned,2026-06-19,Poor Experience
+C00059,Consumer,South,Paid Search,Pro,2025-11-22,Active,,
+C00060,Consumer,West,Paid Search,Premium,2025-05-30,Active,,
+C00061,Consumer,South,Partner,Pro,2025-10-15,Active,,
+C00062,Consumer,West,Partner,Pro,2025-12-27,Active,,
+C00063,SMB,South,Referral,Basic,2025-12-06,Active,,
+C00064,Consumer,North,Referral,Basic,2025-05-09,Active,,
+C00065,Consumer,South,Referral,Pro,2026-03-14,Churned,2026-04-08,Low Usage
+C00066,Consumer,South,Organic,Pro,2025-08-27,Churned,2026-04-28,Low Usage
+C00067,Consumer,North,Paid Search,Premium,2025-02-27,Active,,
+C00068,SMB,North,Organic,Basic,2025-07-17,Active,,
+C00069,Consumer,West,Paid Search,Basic,2025-07-30,Churned,2026-03-17,Competitor
+C00070,Enterprise,South,Referral,Pro,2026-02-06,Active,,
+C00071,SMB,West,Organic,Basic,2026-01-25,Active,,
+C00072,Consumer,East,Partner,Basic,2025-02-14,Active,,
+C00073,Consumer,West,Partner,Pro,2025-04-07,Churned,2026-03-04,Support Issues
+C00074,SMB,South,Social,Basic,2025-10-06,Active,,
+C00075,SMB,North,Referral,Pro,2025-01-23,Active,,
+C00076,SMB,South,Partner,Basic,2026-02-14,Active,,
+C00077,SMB,South,Organic,Basic,2026-04-06,Active,,
+C00078,Consumer,East,Social,Basic,2026-01-26,Active,,
+C00079,Consumer,South,Organic,Premium,2025-12-01,Churned,2026-02-13,Low Usage
+C00080,Consumer,North,Social,Basic,2025-02-13,Active,,
+C00081,Enterprise,West,Organic,Pro,2025-01-27,Active,,
+C00082,SMB,West,Partner,Basic,2025-10-09,Churned,2026-05-27,Price
+C00083,Consumer,North,Partner,Pro,2025-04-07,Churned,2026-06-14,Low Usage
+C00084,Consumer,South,Organic,Basic,2026-04-08,Active,,
+C00085,Consumer,North,Paid Search,Pro,2025-02-05,Active,,
+C00086,Consumer,North,Partner,Pro,2025-04-19,Active,,
+C00087,SMB,South,Paid Search,Premium,2025-02-24,Active,,
+C00088,SMB,North,Partner,Basic,2025-07-11,Churned,2026-06-05,Competitor
+C00089,Enterprise,South,Referral,Basic,2025-08-07,Active,,
+C00090,Consumer,South,Paid Search,Basic,2025-07-04,Active,,
+C00091,Consumer,North,Paid Search,Premium,2025-03-10,Churned,2026-03-18,Price
+C00092,SMB,South,Organic,Pro,2025-11-13,Active,,
+C00093,SMB,West,Social,Pro,2025-05-10,Active,,
+C00094,SMB,West,Paid Search,Basic,2025-02-24,Active,,
+C00095,SMB,West,Referral,Basic,2026-01-13,Churned,2026-04-17,Price
+C00096,Consumer,South,Paid Search,Basic,2025-04-07,Active,,
+C00097,Consumer,South,Referral,Premium,2025-12-02,Churned,2026-02-17,Low Usage
+C00098,Consumer,South,Partner,Pro,2025-03-28,Churned,2026-03-16,Competitor
+C00099,Consumer,West,Partner,Premium,2025-10-21,Active,,
+C00100,Consumer,West,Paid Search,Basic,2025-04-29,Churned,2026-04-19,Competitor
+C00101,Consumer,South,Social,Pro,2025-07-27,Active,,
+C00102,SMB,East,Social,Pro,2025-11-30,Active,,
+C00103,Consumer,South,Referral,Basic,2026-02-17,Active,,
+C00104,Consumer,North,Partner,Premium,2025-06-03,Active,,
+C00105,Enterprise,West,Organic,Premium,2025-02-04,Active,,
+C00106,Consumer,East,Organic,Premium,2025-03-20,Churned,2026-02-08,Competitor
+C00107,Consumer,West,Partner,Pro,2025-03-08,Active,,
+C00108,SMB,West,Paid Search,Basic,2025-12-09,Churned,2026-03-04,Low Usage
+C00109,Consumer,North,Social,Basic,2026-02-17,Active,,
+C00110,Consumer,East,Partner,Premium,2025-02-03,Active,,
+C00111,Consumer,South,Organic,Basic,2025-04-07,Active,,
+C00112,Consumer,East,Partner,Pro,2025-06-18,Churned,2026-06-14,Low Usage
+C00113,Enterprise,North,Paid Search,Pro,2025-06-18,Active,,
+C00114,SMB,East,Referral,Pro,2025-05-31,Churned,2026-06-15,Support Issues
+C00115,SMB,North,Referral,Premium,2025-03-12,Active,,
+C00116,Enterprise,West,Partner,Basic,2025-01-03,Active,,
+C00117,SMB,North,Organic,Basic,2025-11-10,Active,,
+C00118,Consumer,West,Paid Search,Basic,2025-02-01,Churned,2026-06-09,Price
+C00119,Enterprise,South,Referral,Pro,2025-10-14,Churned,2026-06-24,Price
+C00120,Consumer,South,Social,Basic,2025-03-23,Active,,
+C00121,SMB,South,Referral,Basic,2025-02-12,Active,,
+C00122,Enterprise,South,Organic,Premium,2026-01-26,Active,,
+C00123,Consumer,East,Paid Search,Premium,2025-04-15,Active,,
+C00124,Consumer,South,Paid Search,Basic,2025-01-01,Active,,
+C00125,Consumer,East,Social,Basic,2025-03-02,Churned,2026-02-21,Low Usage
+C00126,Consumer,North,Organic,Premium,2025-09-27,Active,,
+C00127,SMB,South,Organic,Basic,2025-06-29,Active,,
+C00128,Enterprise,West,Partner,Basic,2025-08-12,Active,,
+C00129,Consumer,West,Organic,Basic,2025-01-06,Churned,2026-05-05,Poor Experience
+C00130,Consumer,North,Partner,Pro,2025-04-13,Active,,
+C00131,Consumer,North,Referral,Basic,2025-01-10,Churned,2026-06-01,Price
+C00132,Consumer,West,Social,Premium,2025-03-12,Churned,2026-03-26,Competitor
+C00133,Consumer,South,Paid Search,Pro,2025-03-31,Active,,
+C00134,Consumer,East,Organic,Pro,2025-08-14,Active,,
+C00135,Enterprise,East,Social,Basic,2025-06-07,Active,,
+C00136,Consumer,West,Social,Pro,2025-08-16,Active,,
+C00137,Consumer,South,Social,Pro,2026-02-09,Active,,
+C00138,SMB,West,Organic,Pro,2025-05-06,Churned,2026-06-26,Price
+C00139,Consumer,South,Social,Pro,2026-03-20,Active,,
+C00140,Enterprise,South,Social,Pro,2025-07-28,Active,,
+C00141,Enterprise,South,Referral,Premium,2025-04-07,Active,,
+C00142,Consumer,North,Social,Premium,2025-03-15,Active,,
+C00143,Consumer,East,Social,Pro,2025-04-25,Active,,
+C00144,Consumer,West,Referral,Basic,2025-07-10,Active,,
+C00145,Consumer,West,Organic,Basic,2025-06-19,Active,,
+C00146,Consumer,North,Paid Search,Basic,2025-11-03,Active,,
+C00147,SMB,North,Organic,Pro,2026-03-24,Active,,
+C00148,Consumer,North,Paid Search,Basic,2025-07-23,Active,,
+C00149,Consumer,East,Paid Search,Basic,2025-02-25,Churned,2026-03-20,Competitor
+C00150,Consumer,South,Organic,Premium,2025-07-27,Active,,
+C00151,Enterprise,East,Paid Search,Premium,2025-02-10,Active,,
+C00152,Consumer,West,Organic,Premium,2025-02-01,Active,,
+C00153,Consumer,North,Social,Basic,2025-01-15,Churned,2026-04-14,Poor Experience
+C00154,Consumer,West,Partner,Pro,2025-03-03,Churned,2026-05-25,Low Usage
+C00155,Enterprise,North,Organic,Basic,2025-06-04,Active,,
+C00156,Consumer,East,Partner,Basic,2025-10-11,Active,,
+C00157,SMB,East,Referral,Basic,2025-07-28,Churned,2026-05-05,Low Usage
+C00158,SMB,North,Paid Search,Basic,2025-11-16,Active,,
+C00159,Consumer,South,Organic,Pro,2025-07-06,Active,,
+C00160,SMB,West,Referral,Premium,2026-03-18,Active,,
+C00161,Consumer,East,Social,Basic,2025-05-10,Churned,2026-04-08,Low Usage
+C00162,SMB,South,Social,Pro,2025-05-07,Active,,
+C00163,SMB,West,Organic,Pro,2025-10-19,Churned,2026-05-28,Low Usage
+C00164,Consumer,West,Organic,Basic,2025-04-24,Churned,2026-04-02,Support Issues
+C00165,Consumer,West,Paid Search,Pro,2025-07-18,Churned,2026-06-03,Competitor
+C00166,SMB,South,Paid Search,Basic,2025-01-13,Active,,
+C00167,Consumer,West,Organic,Pro,2025-09-28,Active,,
+C00168,Consumer,East,Paid Search,Pro,2025-03-30,Active,,
+C00169,Consumer,South,Social,Basic,2025-08-03,Churned,2026-06-20,Low Usage
+C00170,SMB,South,Partner,Basic,2026-03-20,Active,,
+C00171,SMB,East,Paid Search,Pro,2025-10-05,Active,,
+C00172,Consumer,South,Partner,Premium,2026-03-23,Active,,
+C00173,Consumer,East,Paid Search,Basic,2026-04-19,Active,,
+C00174,Consumer,North,Paid Search,Pro,2026-04-26,Active,,
+C00175,SMB,South,Organic,Pro,2025-07-22,Active,,
+C00176,Consumer,East,Referral,Premium,2025-03-15,Active,,
+C00177,SMB,North,Partner,Premium,2025-01-25,Active,,
+C00178,Consumer,North,Referral,Pro,2025-04-11,Churned,2026-05-26,Low Usage
+C00179,Enterprise,North,Paid Search,Pro,2025-06-25,Active,,
+C00180,Consumer,West,Referral,Premium,2026-03-03,Active,,
+C00181,Consumer,South,Organic,Basic,2025-04-27,Churned,2026-03-29,Low Usage
+C00182,Consumer,North,Partner,Basic,2025-06-15,Churned,2026-04-08,Competitor
+C00183,Enterprise,East,Referral,Basic,2025-02-10,Active,,
+C00184,Enterprise,South,Paid Search,Premium,2026-03-05,Active,,
+C00185,Consumer,West,Referral,Premium,2025-12-10,Churned,2026-05-16,Price
+C00186,SMB,North,Referral,Basic,2026-02-28,Active,,
+C00187,SMB,West,Organic,Pro,2026-01-01,Churned,2026-06-14,Competitor
+C00188,SMB,South,Referral,Pro,2025-04-30,Active,,
+C00189,Consumer,East,Organic,Basic,2025-04-07,Churned,2026-03-16,Competitor
+C00190,Consumer,North,Social,Premium,2025-05-25,Active,,
+C00191,Consumer,South,Social,Basic,2025-08-04,Active,,
+C00192,Enterprise,South,Social,Basic,2025-08-17,Active,,
+C00193,Enterprise,South,Referral,Pro,2025-11-09,Active,,
+C00194,SMB,North,Referral,Pro,2025-05-10,Active,,
+C00195,Consumer,North,Organic,Basic,2025-12-18,Churned,2026-06-09,Support Issues
+C00196,Consumer,East,Social,Pro,2026-01-12,Active,,
+C00197,SMB,North,Organic,Pro,2025-11-14,Active,,
+C00198,Enterprise,South,Paid Search,Basic,2026-04-17,Churned,2026-05-01,Low Usage
+C00199,Enterprise,West,Paid Search,Basic,2025-05-17,Active,,
+C00200,SMB,West,Organic,Pro,2025-11-20,Active,,
+C00201,SMB,South,Referral,Basic,2025-12-03,Active,,
+C00202,Consumer,South,Organic,Premium,2025-09-30,Active,,
+C00203,Consumer,South,Social,Premium,2025-04-27,Active,,
+C00204,Enterprise,West,Paid Search,Premium,2025-11-02,Active,,
+C00205,SMB,West,Organic,Basic,2026-01-03,Active,,
+C00206,Consumer,North,Referral,Premium,2025-04-04,Active,,
+C00207,Consumer,East,Organic,Pro,2025-06-17,Active,,
+C00208,SMB,West,Organic,Basic,2026-03-18,Active,,
+C00209,Consumer,West,Social,Basic,2025-07-22,Active,,
+C00210,Consumer,East,Organic,Basic,2025-12-07,Active,,
+C00211,Consumer,South,Social,Pro,2025-05-29,Active,,
+C00212,SMB,South,Organic,Pro,2026-02-06,Active,,
+C00213,SMB,South,Organic,Basic,2025-07-02,Active,,
+C00214,Consumer,South,Social,Pro,2026-02-17,Active,,
+C00215,SMB,North,Paid Search,Basic,2025-06-01,Churned,2026-05-23,Poor Experience
+C00216,Consumer,East,Organic,Pro,2025-03-15,Churned,2026-02-27,Price
+C00217,Consumer,South,Paid Search,Basic,2025-12-31,Active,,
+C00218,SMB,South,Organic,Premium,2026-02-05,Active,,
+C00219,SMB,North,Social,Premium,2025-10-01,Active,,
+C00220,SMB,East,Paid Search,Pro,2025-02-11,Churned,2026-06-27,Price
+C00221,SMB,South,Social,Basic,2025-07-31,Active,,
+C00222,SMB,North,Partner,Basic,2025-04-11,Active,,
+C00223,Consumer,South,Paid Search,Premium,2025-02-14,Active,,
+C00224,Consumer,South,Partner,Basic,2025-03-23,Active,,
+C00225,Consumer,East,Paid Search,Basic,2025-01-17,Active,,
+C00226,Consumer,East,Partner,Basic,2025-03-14,Active,,
+C00227,Enterprise,South,Organic,Pro,2025-01-14,Active,,
+C00228,Consumer,East,Referral,Pro,2026-03-09,Active,,
+C00229,Enterprise,West,Paid Search,Premium,2025-06-06,Active,,
+C00230,SMB,East,Paid Search,Basic,2025-08-11,Active,,
+C00231,SMB,North,Referral,Basic,2025-05-12,Active,,
+C00232,Consumer,North,Social,Premium,2025-12-04,Active,,
+C00233,SMB,North,Organic,Premium,2026-02-08,Churned,2026-06-17,Poor Experience
+C00234,Consumer,West,Organic,Basic,2026-01-11,Active,,
+C00235,Consumer,South,Social,Pro,2026-01-11,Active,,
+C00236,SMB,South,Referral,Basic,2025-02-16,Churned,2026-05-11,Poor Experience
+C00237,Consumer,South,Partner,Premium,2025-04-17,Active,,
+C00238,Consumer,West,Social,Basic,2025-04-18,Churned,2026-06-13,Competitor
+C00239,SMB,South,Partner,Premium,2025-09-22,Active,,
+C00240,Consumer,West,Social,Pro,2025-07-24,Active,,
+C00241,Enterprise,East,Paid Search,Pro,2025-03-20,Active,,
+C00242,Enterprise,South,Organic,Basic,2025-06-04,Active,,
+C00243,Enterprise,West,Social,Pro,2025-09-28,Churned,2026-05-01,Support Issues
+C00244,Consumer,North,Referral,Basic,2026-04-21,Active,,
+C00245,Consumer,East,Organic,Basic,2026-04-30,Churned,2026-04-14,Low Usage
+C00246,Enterprise,South,Paid Search,Pro,2025-09-04,Churned,2026-06-06,Poor Experience
+C00247,Consumer,West,Partner,Premium,2025-01-19,Active,,
+C00248,Enterprise,East,Referral,Pro,2025-12-12,Active,,
+C00249,Enterprise,East,Paid Search,Pro,2026-03-12,Active,,
+C00250,Enterprise,West,Paid Search,Basic,2025-01-26,Churned,2026-06-13,Low Usage
+C00251,Consumer,North,Organic,Basic,2025-08-05,Active,,
+C00252,Consumer,West,Paid Search,Basic,2025-06-03,Active,,
+C00253,Enterprise,East,Paid Search,Pro,2025-06-03,Churned,2026-06-06,Low Usage
+C00254,Consumer,West,Organic,Premium,2025-06-23,Churned,2026-03-14,Price
+C00255,Consumer,South,Social,Pro,2025-04-02,Active,,
+C00256,SMB,East,Paid Search,Basic,2026-03-09,Active,,
+C00257,Enterprise,West,Social,Basic,2025-12-04,Active,,
+C00258,SMB,West,Partner,Pro,2026-04-25,Active,,
+C00259,SMB,South,Organic,Basic,2025-06-30,Active,,
+C00260,Consumer,West,Referral,Premium,2025-05-11,Active,,
+C00261,SMB,North,Paid Search,Premium,2026-03-26,Active,,
+C00262,Enterprise,West,Partner,Pro,2026-04-26,Active,,
+C00263,Consumer,South,Organic,Basic,2025-10-25,Churned,2026-03-20,Low Usage
+C00264,Consumer,West,Referral,Basic,2025-10-02,Active,,
+C00265,Enterprise,East,Referral,Basic,2025-09-30,Active,,
+C00266,SMB,South,Paid Search,Basic,2026-02-21,Active,,
+C00267,SMB,East,Organic,Basic,2025-03-17,Churned,2026-02-24,Price
+C00268,SMB,North,Referral,Pro,2025-06-26,Churned,2026-02-18,Price
+C00269,Consumer,East,Social,Pro,2025-07-03,Active,,
+C00270,Consumer,West,Paid Search,Basic,2025-11-15,Active,,
+C00271,SMB,West,Referral,Basic,2025-05-11,Active,,
+C00272,SMB,West,Paid Search,Basic,2025-12-29,Active,,
+C00273,Enterprise,East,Social,Basic,2025-02-18,Active,,
+C00274,Enterprise,North,Organic,Premium,2025-02-24,Churned,2026-02-02,Support Issues
+C00275,Consumer,North,Partner,Basic,2025-06-03,Active,,
+C00276,Consumer,West,Paid Search,Basic,2025-12-21,Churned,2026-03-10,Price
+C00277,SMB,West,Paid Search,Basic,2025-07-19,Active,,
+C00278,SMB,West,Organic,Premium,2025-11-04,Active,,
+C00279,SMB,West,Organic,Pro,2025-12-22,Active,,
+C00280,SMB,North,Referral,Basic,2026-01-08,Active,,
+C00281,Enterprise,East,Organic,Pro,2025-04-28,Active,,
+C00282,Consumer,South,Social,Pro,2025-09-20,Churned,2026-05-09,Competitor
+C00283,Consumer,North,Organic,Premium,2025-02-15,Churned,2026-05-12,Poor Experience
+C00284,Consumer,South,Paid Search,Basic,2025-10-29,Active,,
+C00285,SMB,North,Paid Search,Premium,2025-12-22,Active,,
+C00286,Consumer,North,Organic,Premium,2026-02-04,Active,,
+C00287,Consumer,North,Organic,Premium,2026-02-12,Active,,
+C00288,Consumer,West,Paid Search,Pro,2025-07-08,Churned,2026-05-05,Competitor
+C00289,Consumer,North,Paid Search,Pro,2025-11-06,Active,,
+C00290,SMB,North,Paid Search,Basic,2025-11-14,Active,,
+C00291,Consumer,South,Referral,Pro,2025-05-09,Active,,
+C00292,Consumer,North,Referral,Pro,2025-02-18,Active,,
+C00293,SMB,South,Organic,Pro,2025-01-25,Churned,2026-04-14,Price
+C00294,Consumer,South,Paid Search,Pro,2025-09-23,Churned,2026-02-23,Poor Experience
+C00295,Consumer,West,Partner,Pro,2025-04-28,Churned,2026-02-23,Support Issues
+C00296,Consumer,West,Referral,Premium,2026-04-09,Churned,2026-05-06,Low Usage
+C00297,SMB,West,Referral,Basic,2025-05-24,Churned,2026-06-12,Poor Experience
+C00298,Consumer,North,Paid Search,Premium,2026-03-18,Active,,
+C00299,SMB,North,Social,Pro,2025-07-19,Active,,
+C00300,Consumer,East,Social,Premium,2025-06-06,Active,,
+C00301,Consumer,North,Referral,Pro,2025-12-14,Active,,
+C00302,Consumer,North,Partner,Basic,2025-05-14,Active,,
+C00303,Consumer,South,Organic,Premium,2026-02-04,Active,,
+C00304,SMB,North,Organic,Basic,2025-05-28,Active,,
+C00305,SMB,North,Social,Premium,2025-12-02,Churned,2026-06-10,Poor Experience
+C00306,Enterprise,North,Social,Pro,2025-03-12,Churned,2026-02-27,Poor Experience
+C00307,Consumer,West,Organic,Pro,2025-08-21,Active,,
+C00308,Consumer,North,Organic,Basic,2025-11-30,Active,,
+C00309,SMB,West,Organic,Pro,2025-10-26,Active,,
+C00310,Consumer,West,Paid Search,Basic,2025-06-03,Active,,
+C00311,Consumer,East,Social,Basic,2025-03-31,Active,,
+C00312,Consumer,West,Referral,Basic,2025-11-30,Active,,
+C00313,Consumer,East,Paid Search,Basic,2025-07-18,Active,,
+C00314,Enterprise,South,Paid Search,Premium,2025-06-10,Churned,2026-02-20,Competitor
+C00315,SMB,South,Organic,Premium,2025-01-26,Active,,
+C00316,SMB,South,Paid Search,Basic,2025-05-01,Active,,
+C00317,Consumer,West,Referral,Pro,2025-10-28,Active,,
+C00318,Consumer,East,Partner,Basic,2025-07-31,Churned,2026-02-22,Price
+C00319,Consumer,South,Social,Pro,2025-03-04,Active,,
+C00320,Consumer,East,Organic,Premium,2026-03-27,Active,,
+C00321,Consumer,South,Partner,Premium,2026-03-12,Active,,
+C00322,SMB,East,Social,Basic,2025-03-09,Active,,
+C00323,SMB,North,Social,Pro,2025-09-10,Active,,
+C00324,Consumer,South,Paid Search,Basic,2026-02-14,Active,,
+C00325,Enterprise,North,Paid Search,Premium,2026-04-04,Active,,
+C00326,SMB,South,Paid Search,Basic,2025-01-02,Active,,
+C00327,SMB,South,Organic,Pro,2026-02-02,Active,,
+C00328,SMB,South,Organic,Pro,2025-04-18,Churned,2026-03-23,Low Usage
+C00329,Consumer,West,Organic,Pro,2025-10-13,Active,,
+C00330,Consumer,North,Paid Search,Basic,2025-02-18,Churned,2026-06-01,Competitor
+C00331,Consumer,South,Social,Premium,2025-05-20,Active,,
+C00332,SMB,West,Paid Search,Basic,2025-08-06,Active,,
+C00333,Consumer,West,Organic,Pro,2025-02-13,Active,,
+C00334,Consumer,South,Partner,Basic,2026-02-21,Active,,
+C00335,Consumer,North,Partner,Basic,2025-09-26,Churned,2026-04-05,Poor Experience
+C00336,Consumer,South,Social,Pro,2025-03-19,Active,,
+C00337,Enterprise,South,Partner,Basic,2025-08-04,Active,,
+C00338,SMB,West,Referral,Basic,2026-01-17,Active,,
+C00339,Consumer,South,Partner,Basic,2025-04-08,Active,,
+C00340,Consumer,North,Organic,Basic,2025-08-24,Churned,2026-03-05,Price
+C00341,Consumer,West,Paid Search,Pro,2025-10-09,Active,,
+C00342,Consumer,South,Organic,Premium,2025-05-29,Churned,2026-02-18,Poor Experience
+C00343,Consumer,West,Organic,Basic,2026-02-16,Active,,
+C00344,Consumer,South,Organic,Basic,2025-10-31,Churned,2026-06-12,Price
+C00345,Consumer,East,Referral,Basic,2026-04-29,Active,,
+C00346,SMB,North,Social,Basic,2026-02-28,Active,,
+C00347,SMB,West,Referral,Pro,2025-03-07,Active,,
+C00348,Consumer,North,Organic,Pro,2025-08-22,Active,,
+C00349,Consumer,South,Social,Basic,2026-04-02,Churned,2026-06-02,Poor Experience
+C00350,SMB,West,Referral,Basic,2025-03-28,Active,,
+C00351,Consumer,East,Paid Search,Basic,2025-03-20,Active,,
+C00352,Enterprise,West,Referral,Premium,2025-07-24,Active,,
+C00353,SMB,East,Organic,Premium,2025-10-06,Active,,
+C00354,Consumer,East,Paid Search,Basic,2025-12-03,Active,,
+C00355,Consumer,South,Partner,Basic,2025-09-11,Active,,
+C00356,SMB,South,Paid Search,Premium,2025-10-31,Active,,
+C00357,Consumer,West,Paid Search,Premium,2026-01-15,Active,,
+C00358,SMB,North,Partner,Basic,2025-05-10,Active,,
+C00359,Enterprise,East,Social,Basic,2025-03-25,Churned,2026-05-16,Poor Experience
+C00360,SMB,East,Organic,Basic,2025-10-03,Active,,
+C00361,Consumer,North,Organic,Pro,2025-07-06,Churned,2026-04-04,Price
+C00362,SMB,South,Organic,Basic,2025-02-15,Active,,
+C00363,Consumer,West,Referral,Basic,2026-01-22,Active,,
+C00364,Consumer,South,Paid Search,Pro,2025-07-02,Active,,
+C00365,Enterprise,East,Organic,Basic,2025-09-25,Active,,
+C00366,Consumer,North,Partner,Pro,2025-10-23,Churned,2026-06-25,Poor Experience
+C00367,Enterprise,West,Referral,Basic,2025-11-18,Active,,
+C00368,Enterprise,South,Organic,Basic,2025-04-10,Active,,
+C00369,Consumer,West,Referral,Pro,2025-03-19,Active,,
+C00370,Consumer,North,Referral,Basic,2025-09-29,Active,,
+C00371,Consumer,West,Organic,Premium,2025-12-05,Active,,
+C00372,Consumer,South,Organic,Pro,2025-06-11,Churned,2026-03-04,Price
+C00373,Consumer,West,Social,Basic,2025-02-13,Active,,
+C00374,SMB,East,Paid Search,Pro,2025-08-26,Active,,
+C00375,Consumer,South,Referral,Basic,2025-05-14,Churned,2026-05-09,Poor Experience
+C00376,Consumer,South,Paid Search,Premium,2026-04-06,Active,,
+C00377,SMB,South,Organic,Basic,2025-07-11,Active,,
+C00378,Consumer,West,Organic,Pro,2025-12-22,Active,,
+C00379,SMB,West,Paid Search,Basic,2025-10-05,Active,,
+C00380,Consumer,North,Organic,Pro,2025-01-18,Active,,
+C00381,Consumer,South,Organic,Premium,2025-01-12,Active,,
+C00382,SMB,North,Social,Premium,2025-06-29,Active,,
+C00383,SMB,West,Partner,Basic,2025-05-03,Active,,
+C00384,Enterprise,North,Social,Basic,2025-09-03,Active,,
+C00385,SMB,East,Partner,Premium,2025-08-10,Active,,
+C00386,SMB,South,Organic,Premium,2026-01-08,Active,,
+C00387,Consumer,West,Partner,Basic,2025-02-20,Active,,
+C00388,Consumer,North,Organic,Pro,2025-03-12,Active,,
+C00389,SMB,North,Partner,Basic,2026-04-25,Active,,
+C00390,SMB,West,Partner,Premium,2025-02-17,Churned,2026-05-05,Competitor
+C00391,Enterprise,West,Social,Basic,2025-01-19,Active,,
+C00392,Consumer,East,Partner,Basic,2025-09-19,Churned,2026-03-20,Low Usage
+C00393,Consumer,South,Referral,Pro,2025-03-25,Active,,
+C00394,SMB,South,Organic,Basic,2025-06-04,Churned,2026-02-14,Price
+C00395,Consumer,West,Paid Search,Pro,2025-02-22,Churned,2026-06-12,Low Usage
+C00396,Enterprise,West,Referral,Pro,2025-04-17,Active,,
+C00397,Enterprise,South,Organic,Basic,2025-12-23,Active,,
+C00398,Consumer,South,Referral,Basic,2025-10-31,Active,,
+C00399,SMB,South,Partner,Pro,2025-05-15,Active,,
+C00400,SMB,East,Organic,Basic,2026-03-19,Active,,
+C00401,Consumer,South,Social,Pro,2025-03-10,Active,,
+C00402,Enterprise,North,Partner,Premium,2025-01-11,Churned,2026-02-06,Low Usage
+C00403,Consumer,South,Partner,Pro,2025-05-23,Active,,
+C00404,SMB,North,Partner,Basic,2025-07-11,Active,,
+C00405,Consumer,South,Referral,Basic,2026-01-22,Churned,2026-02-25,Poor Experience
+C00406,Enterprise,North,Partner,Basic,2026-01-13,Active,,
+C00407,Consumer,South,Social,Basic,2025-03-10,Active,,
+C00408,Consumer,West,Organic,Basic,2025-01-23,Active,,
+C00409,Enterprise,South,Paid Search,Pro,2025-06-30,Active,,
+C00410,Consumer,North,Social,Basic,2025-10-20,Active,,
+C00411,Consumer,East,Organic,Basic,2025-01-09,Churned,2026-03-30,Poor Experience
+C00412,Enterprise,West,Referral,Basic,2025-09-28,Active,,
+C00413,Enterprise,North,Referral,Pro,2026-01-22,Active,,
+C00414,SMB,North,Organic,Basic,2025-04-03,Active,,
+C00415,SMB,North,Referral,Pro,2026-03-30,Active,,
+C00416,Consumer,West,Social,Basic,2025-01-17,Active,,
+C00417,Consumer,East,Paid Search,Premium,2025-06-03,Active,,
+C00418,Consumer,West,Organic,Premium,2026-02-09,Active,,
+C00419,SMB,North,Organic,Basic,2025-11-24,Churned,2026-02-26,Price
+C00420,SMB,West,Paid Search,Basic,2025-05-29,Active,,
+C00421,SMB,North,Partner,Basic,2026-01-12,Active,,
+C00422,SMB,South,Organic,Basic,2025-09-24,Active,,
+C00423,Consumer,West,Referral,Pro,2026-02-26,Active,,
+C00424,Consumer,East,Organic,Premium,2025-11-24,Churned,2026-06-02,Poor Experience
+C00425,Consumer,South,Paid Search,Pro,2025-04-16,Active,,
+C00426,Consumer,West,Social,Premium,2026-04-17,Active,,
+C00427,Consumer,South,Social,Basic,2026-01-16,Churned,2026-02-19,Poor Experience
+C00428,Enterprise,North,Organic,Basic,2025-02-04,Active,,
+C00429,Consumer,South,Paid Search,Pro,2025-04-29,Active,,
+C00430,Consumer,North,Organic,Basic,2025-01-14,Active,,
+C00431,Consumer,West,Paid Search,Pro,2025-01-14,Active,,
+C00432,SMB,North,Referral,Basic,2025-09-23,Active,,
+C00433,SMB,West,Organic,Basic,2025-05-20,Active,,
+C00434,Consumer,West,Paid Search,Premium,2025-10-21,Active,,
+C00435,Consumer,East,Paid Search,Basic,2025-12-30,Churned,2026-04-26,Poor Experience
+C00436,SMB,South,Partner,Premium,2025-04-29,Churned,2026-02-02,Price
+C00437,Consumer,North,Partner,Premium,2025-08-26,Churned,2026-05-16,Competitor
+C00438,SMB,South,Organic,Pro,2025-02-03,Active,,
+C00439,SMB,East,Social,Pro,2025-06-18,Active,,
+C00440,Consumer,East,Paid Search,Pro,2025-01-10,Active,,
+C00441,Consumer,North,Paid Search,Premium,2025-05-02,Active,,
+C00442,Enterprise,East,Social,Basic,2026-02-05,Active,,
+C00443,Consumer,North,Partner,Pro,2025-05-25,Active,,
+C00444,Consumer,West,Partner,Pro,2026-03-27,Active,,
+C00445,SMB,South,Referral,Basic,2026-03-22,Active,,
+C00446,Enterprise,West,Paid Search,Pro,2025-08-11,Active,,
+C00447,Enterprise,South,Social,Basic,2026-01-06,Active,,
+C00448,SMB,East,Organic,Pro,2025-09-14,Churned,2026-04-23,Competitor
+C00449,Consumer,West,Referral,Premium,2025-09-25,Churned,2026-03-11,Price
+C00450,Consumer,West,Paid Search,Basic,2025-12-25,Churned,2026-04-10,Price
+C00451,SMB,South,Referral,Premium,2025-01-04,Active,,
+C00452,SMB,South,Organic,Pro,2026-03-02,Active,,
+C00453,Consumer,South,Organic,Premium,2026-02-01,Active,,
+C00454,Enterprise,North,Partner,Pro,2025-12-20,Active,,
+C00455,Consumer,South,Organic,Pro,2025-04-16,Churned,2026-06-13,Support Issues
+C00456,Consumer,East,Referral,Basic,2025-03-26,Active,,
+C00457,Consumer,North,Organic,Premium,2025-08-02,Active,,
+C00458,Consumer,South,Organic,Basic,2025-05-01,Churned,2026-02-03,Low Usage
+C00459,Consumer,North,Organic,Premium,2025-05-12,Active,,
+C00460,Consumer,North,Organic,Premium,2025-12-04,Churned,2026-03-02,Poor Experience
+C00461,Consumer,West,Partner,Basic,2025-07-16,Active,,
+C00462,SMB,North,Paid Search,Basic,2025-01-19,Active,,
+C00463,SMB,East,Partner,Pro,2025-05-10,Active,,
+C00464,SMB,North,Referral,Basic,2025-01-12,Active,,
+C00465,Enterprise,East,Paid Search,Premium,2025-03-22,Active,,
+C00466,Consumer,East,Referral,Basic,2025-11-26,Active,,
+C00467,Consumer,South,Referral,Basic,2025-12-20,Active,,
+C00468,Enterprise,East,Social,Premium,2025-09-19,Active,,
+C00469,Consumer,South,Paid Search,Pro,2026-01-27,Active,,
+C00470,Enterprise,East,Paid Search,Premium,2025-05-05,Churned,2026-03-24,Competitor
+C00471,Consumer,North,Partner,Basic,2025-11-03,Active,,
+C00472,Enterprise,East,Partner,Pro,2025-09-24,Active,,
+C00473,Consumer,East,Partner,Pro,2026-03-23,Active,,
+C00474,Enterprise,West,Paid Search,Pro,2026-03-17,Churned,2026-04-16,Price
+C00475,Consumer,West,Social,Pro,2026-01-18,Active,,
+C00476,Enterprise,South,Paid Search,Pro,2025-05-20,Active,,
+C00477,Consumer,South,Paid Search,Pro,2025-11-25,Active,,
+C00478,SMB,North,Organic,Basic,2025-01-02,Active,,
+C00479,Enterprise,South,Referral,Pro,2025-01-08,Active,,
+C00480,Consumer,West,Organic,Basic,2025-09-07,Churned,2026-04-24,Low Usage
+C00481,SMB,North,Paid Search,Pro,2025-05-19,Active,,
+C00482,SMB,East,Partner,Basic,2025-05-04,Active,,
+C00483,Consumer,West,Organic,Pro,2025-11-05,Active,,
+C00484,SMB,East,Organic,Pro,2025-08-16,Churned,2026-06-06,Price
+C00485,SMB,South,Organic,Basic,2025-01-10,Active,,
+C00486,Enterprise,East,Partner,Basic,2026-04-14,Active,,
+C00487,Consumer,East,Referral,Basic,2025-07-31,Churned,2026-03-20,Poor Experience
+C00488,Consumer,North,Paid Search,Pro,2025-04-22,Active,,
+C00489,Enterprise,West,Social,Premium,2025-01-08,Churned,2026-06-12,Support Issues
+C00490,Enterprise,West,Social,Basic,2025-10-19,Active,,
+C00491,Consumer,South,Paid Search,Pro,2026-04-22,Active,,
+C00492,SMB,North,Referral,Basic,2025-12-28,Active,,
+C00493,Consumer,North,Social,Pro,2026-04-05,Active,,
+C00494,Consumer,South,Referral,Premium,2025-09-10,Active,,
+C00495,Consumer,North,Organic,Basic,2025-01-14,Churned,2026-03-19,Competitor
+C00496,Consumer,South,Partner,Pro,2025-08-28,Active,,
+C00497,SMB,South,Referral,Basic,2026-03-14,Active,,
+C00498,Consumer,South,Paid Search,Basic,2025-08-30,Active,,
+C00499,Enterprise,East,Paid Search,Basic,2026-04-14,Active,,
+C00500,Enterprise,North,Organic,Basic,2025-12-08,Active,,
+C00501,SMB,East,Organic,Pro,2025-05-29,Churned,2026-02-01,Poor Experience
+C00502,Consumer,North,Social,Pro,2025-08-24,Churned,2026-03-01,Low Usage
+C00503,Consumer,South,Organic,Pro,2025-11-02,Active,,
+C00504,SMB,North,Paid Search,Basic,2026-04-23,Active,,
+C00505,SMB,North,Referral,Basic,2025-06-16,Churned,2026-03-07,Price
+C00506,Consumer,South,Organic,Pro,2025-01-20,Active,,
+C00507,Enterprise,West,Partner,Premium,2025-08-04,Active,,
+C00508,SMB,South,Organic,Basic,2025-12-09,Active,,
+C00509,Enterprise,West,Paid Search,Premium,2025-05-15,Active,,
+C00510,SMB,West,Paid Search,Pro,2026-01-28,Active,,
+C00511,SMB,South,Organic,Pro,2025-05-09,Active,,
+C00512,Consumer,South,Organic,Pro,2026-02-14,Active,,
+C00513,Enterprise,West,Social,Basic,2026-02-26,Churned,2026-06-23,Competitor
+C00514,Enterprise,North,Partner,Basic,2025-10-21,Active,,
+C00515,Consumer,South,Organic,Pro,2025-09-03,Active,,
+C00516,Consumer,East,Referral,Basic,2025-07-08,Churned,2026-06-25,Low Usage
+C00517,Consumer,South,Social,Premium,2025-02-13,Churned,2026-03-26,Poor Experience
+C00518,SMB,West,Social,Basic,2025-03-27,Churned,2026-05-09,Low Usage
+C00519,Enterprise,East,Paid Search,Basic,2025-02-13,Active,,
+C00520,Consumer,South,Paid Search,Pro,2025-11-26,Active,,
+C00521,SMB,South,Paid Search,Basic,2026-01-10,Active,,
+C00522,Consumer,South,Social,Pro,2026-03-22,Churned,2026-03-14,Competitor
+C00523,Enterprise,South,Social,Pro,2026-01-13,Active,,
+C00524,SMB,South,Organic,Premium,2026-01-25,Active,,
+C00525,SMB,West,Paid Search,Pro,2025-05-25,Churned,2026-03-07,Price
+C00526,Consumer,South,Partner,Pro,2025-02-20,Active,,
+C00527,Consumer,North,Social,Pro,2025-08-30,Active,,
+C00528,Consumer,East,Partner,Premium,2025-10-21,Active,,
+C00529,Consumer,East,Social,Basic,2026-02-12,Active,,
+C00530,Enterprise,West,Paid Search,Basic,2025-02-20,Churned,2026-02-27,Price
+C00531,SMB,South,Referral,Basic,2025-09-23,Churned,2026-04-03,Price
+C00532,Enterprise,West,Referral,Basic,2025-04-30,Active,,
+C00533,Enterprise,North,Organic,Pro,2025-07-19,Active,,
+C00534,SMB,North,Referral,Pro,2026-02-09,Active,,
+C00535,SMB,South,Social,Pro,2025-09-05,Active,,
+C00536,Enterprise,East,Organic,Basic,2025-03-11,Active,,
+C00537,SMB,North,Social,Pro,2025-12-07,Active,,
+C00538,Consumer,South,Referral,Basic,2025-02-26,Active,,
+C00539,Consumer,North,Partner,Pro,2026-01-17,Churned,2026-05-17,Poor Experience
+C00540,Consumer,North,Organic,Pro,2025-02-08,Active,,
+C00541,Enterprise,East,Organic,Basic,2026-04-17,Active,,
+C00542,SMB,West,Referral,Basic,2025-10-16,Active,,
+C00543,Consumer,West,Paid Search,Basic,2026-03-19,Churned,2026-05-07,Price
+C00544,SMB,South,Social,Premium,2025-01-18,Active,,
+C00545,SMB,North,Social,Premium,2026-03-16,Churned,2026-02-16,Low Usage
+C00546,Consumer,North,Organic,Pro,2025-08-08,Active,,
+C00547,Consumer,South,Referral,Basic,2025-11-09,Active,,
+C00548,SMB,South,Referral,Basic,2025-09-01,Active,,
+C00549,Consumer,West,Paid Search,Pro,2025-12-18,Active,,
+C00550,SMB,South,Partner,Pro,2026-04-05,Active,,
+C00551,Consumer,North,Social,Basic,2025-10-31,Active,,
+C00552,Enterprise,South,Referral,Basic,2025-10-25,Churned,2026-06-12,Support Issues
+C00553,SMB,South,Social,Pro,2025-10-10,Active,,
+C00554,SMB,South,Paid Search,Basic,2025-03-15,Active,,
+C00555,Enterprise,East,Partner,Basic,2025-04-20,Active,,
+C00556,Consumer,West,Referral,Basic,2025-06-29,Active,,
+C00557,Consumer,East,Social,Pro,2026-03-02,Active,,
+C00558,Consumer,North,Partner,Premium,2025-02-01,Churned,2026-04-11,Poor Experience
+C00559,SMB,South,Organic,Premium,2025-08-22,Active,,
+C00560,SMB,North,Social,Pro,2025-10-09,Active,,
+C00561,SMB,North,Organic,Pro,2025-01-25,Active,,
+C00562,Consumer,East,Paid Search,Basic,2025-11-27,Active,,
+C00563,Consumer,South,Paid Search,Pro,2025-10-06,Active,,
+C00564,Consumer,North,Partner,Basic,2025-08-14,Active,,
+C00565,Consumer,South,Partner,Pro,2025-02-26,Active,,
+C00566,SMB,North,Social,Basic,2025-06-29,Active,,
+C00567,Consumer,West,Social,Basic,2025-08-20,Active,,
+C00568,Consumer,North,Referral,Basic,2026-01-17,Churned,2026-02-02,Competitor
+C00569,Enterprise,North,Partner,Basic,2025-12-09,Active,,
+C00570,Consumer,North,Paid Search,Basic,2026-04-22,Active,,
+C00571,Consumer,North,Paid Search,Basic,2025-10-14,Churned,2026-03-06,Poor Experience
+C00572,SMB,West,Organic,Premium,2025-03-05,Active,,
+C00573,Consumer,East,Social,Pro,2026-03-31,Churned,2026-06-13,Poor Experience
+C00574,SMB,East,Social,Pro,2025-08-20,Active,,
+C00575,Enterprise,West,Paid Search,Premium,2025-10-16,Active,,
+C00576,Enterprise,South,Organic,Premium,2025-08-01,Active,,
+C00577,Consumer,West,Social,Pro,2025-09-15,Active,,
+C00578,Enterprise,North,Organic,Premium,2025-01-18,Active,,
+C00579,Consumer,South,Social,Basic,2025-06-24,Active,,
+C00580,Consumer,East,Partner,Basic,2026-02-21,Active,,
+C00581,Consumer,South,Paid Search,Basic,2025-08-17,Churned,2026-04-14,Low Usage
+C00582,Enterprise,East,Organic,Pro,2025-08-14,Active,,
+C00583,Consumer,North,Social,Pro,2025-03-25,Active,,
+C00584,Consumer,West,Social,Basic,2025-10-18,Active,,
+C00585,SMB,West,Referral,Basic,2026-03-11,Active,,
+C00586,Consumer,East,Partner,Pro,2026-01-05,Active,,
+C00587,Consumer,West,Organic,Basic,2025-09-03,Churned,2026-04-13,Poor Experience
+C00588,Consumer,West,Referral,Pro,2026-02-06,Active,,
+C00589,Consumer,South,Social,Pro,2025-04-20,Active,,
+C00590,Consumer,North,Partner,Pro,2025-09-11,Active,,
+C00591,Consumer,South,Organic,Pro,2025-03-29,Active,,
+C00592,SMB,West,Social,Premium,2025-03-13,Churned,2026-05-28,Low Usage
+C00593,Consumer,North,Referral,Pro,2026-01-16,Active,,
+C00594,Consumer,West,Paid Search,Pro,2025-01-30,Active,,
+C00595,Enterprise,South,Organic,Pro,2025-06-21,Active,,
+C00596,Consumer,South,Partner,Basic,2025-11-05,Churned,2026-06-24,Low Usage
+C00597,SMB,West,Organic,Basic,2026-01-29,Active,,
+C00598,Consumer,South,Paid Search,Basic,2025-12-09,Active,,
+C00599,Consumer,South,Paid Search,Pro,2026-03-12,Active,,
+C00600,Consumer,South,Partner,Pro,2025-06-26,Active,,
+C00601,Consumer,East,Referral,Premium,2025-05-19,Active,,
+C00602,Consumer,West,Social,Basic,2025-07-13,Churned,2026-02-13,Price
+C00603,Consumer,North,Organic,Basic,2025-07-05,Active,,
+C00604,Consumer,South,Referral,Premium,2025-08-06,Active,,
+C00605,Consumer,North,Referral,Basic,2025-06-13,Churned,2026-02-13,Competitor
+C00606,Consumer,West,Social,Pro,2025-06-10,Active,,
+C00607,Consumer,West,Partner,Pro,2026-03-07,Active,,
+C00608,Consumer,South,Organic,Pro,2025-01-13,Churned,2026-06-09,Low Usage
+C00609,Consumer,South,Referral,Basic,2025-10-23,Active,,
+C00610,SMB,South,Organic,Basic,2025-03-30,Churned,2026-05-18,Price
+C00611,Consumer,West,Referral,Basic,2025-11-20,Churned,2026-05-17,Low Usage
+C00612,SMB,West,Paid Search,Pro,2025-02-11,Active,,
+C00613,SMB,South,Paid Search,Pro,2026-02-07,Active,,
+C00614,Consumer,South,Paid Search,Basic,2025-07-29,Active,,
+C00615,Enterprise,South,Referral,Pro,2025-08-17,Active,,
+C00616,Enterprise,East,Paid Search,Premium,2025-12-16,Active,,
+C00617,Consumer,South,Social,Basic,2025-10-02,Churned,2026-02-23,Price
+C00618,Consumer,West,Paid Search,Pro,2026-03-18,Active,,
+C00619,SMB,West,Organic,Pro,2025-10-06,Active,,
+C00620,SMB,North,Social,Basic,2025-09-08,Active,,
+C00621,Consumer,South,Paid Search,Basic,2025-11-06,Active,,
+C00622,Consumer,South,Paid Search,Pro,2025-07-27,Active,,
+C00623,Consumer,West,Referral,Premium,2025-11-17,Active,,
+C00624,Consumer,West,Paid Search,Premium,2025-05-20,Active,,
+C00625,SMB,West,Organic,Pro,2025-10-07,Active,,
+C00626,Consumer,North,Paid Search,Pro,2025-02-03,Active,,
+C00627,Consumer,South,Partner,Basic,2025-11-05,Active,,
+C00628,SMB,East,Referral,Pro,2026-01-27,Active,,
+C00629,Consumer,West,Referral,Pro,2025-01-18,Active,,
+C00630,Consumer,South,Referral,Basic,2025-02-26,Churned,2026-06-29,Price
+C00631,SMB,East,Organic,Pro,2025-04-22,Churned,2026-04-24,Price
+C00632,Enterprise,West,Paid Search,Pro,2025-01-05,Active,,
+C00633,Consumer,West,Social,Basic,2026-02-14,Active,,
+C00634,Consumer,West,Organic,Premium,2026-02-18,Active,,
+C00635,Consumer,East,Organic,Basic,2025-07-01,Churned,2026-02-06,Poor Experience
+C00636,Consumer,West,Organic,Basic,2025-01-13,Active,,
+C00637,Consumer,South,Paid Search,Basic,2025-12-05,Active,,
+C00638,Consumer,North,Partner,Pro,2025-10-12,Churned,2026-04-10,Poor Experience
+C00639,Consumer,East,Organic,Pro,2025-09-16,Active,,
+C00640,Consumer,South,Referral,Basic,2025-03-31,Active,,
+C00641,Consumer,North,Organic,Pro,2025-04-14,Active,,
+C00642,Consumer,North,Partner,Basic,2026-01-14,Active,,
+C00643,Consumer,North,Organic,Pro,2025-07-05,Active,,
+C00644,Consumer,West,Paid Search,Pro,2025-09-07,Active,,
+C00645,Consumer,East,Social,Basic,2025-09-12,Churned,2026-04-05,Price
+C00646,Enterprise,South,Social,Premium,2025-03-17,Active,,
+C00647,SMB,South,Paid Search,Basic,2026-01-21,Churned,2026-02-02,Price
+C00648,SMB,South,Paid Search,Basic,2026-04-04,Active,,
+C00649,SMB,East,Paid Search,Pro,2025-04-18,Active,,
+C00650,Consumer,West,Organic,Premium,2025-06-05,Churned,2026-04-24,Price
+C00651,Consumer,South,Organic,Basic,2025-03-23,Churned,2026-06-19,Poor Experience
+C00652,Consumer,East,Paid Search,Basic,2025-03-18,Active,,
+C00653,SMB,East,Organic,Basic,2026-04-30,Active,,
+C00654,SMB,East,Paid Search,Pro,2026-04-15,Active,,
+C00655,Consumer,East,Referral,Basic,2026-04-05,Churned,2026-03-10,Low Usage
+C00656,Consumer,South,Partner,Pro,2025-09-15,Churned,2026-05-08,Poor Experience
+C00657,Consumer,West,Referral,Premium,2025-05-07,Active,,
+C00658,Consumer,North,Organic,Pro,2026-04-30,Active,,
+C00659,SMB,East,Organic,Basic,2026-01-26,Churned,2026-05-24,Support Issues
+C00660,SMB,West,Partner,Basic,2025-10-09,Active,,
+C00661,Consumer,West,Paid Search,Basic,2026-04-19,Active,,
+C00662,Enterprise,West,Organic,Premium,2025-03-29,Active,,
+C00663,SMB,South,Referral,Basic,2025-07-23,Active,,
+C00664,Consumer,North,Referral,Basic,2025-01-16,Active,,
+C00665,Consumer,East,Referral,Pro,2025-05-31,Active,,
+C00666,Consumer,East,Organic,Pro,2026-02-28,Active,,
+C00667,Consumer,South,Organic,Pro,2025-09-11,Active,,
+C00668,Consumer,South,Partner,Basic,2025-07-07,Churned,2026-06-14,Price
+C00669,Consumer,South,Organic,Premium,2025-11-25,Active,,
+C00670,Consumer,West,Referral,Premium,2025-02-01,Active,,
+C00671,Consumer,East,Social,Pro,2025-09-28,Churned,2026-04-05,Competitor
+C00672,Enterprise,South,Referral,Premium,2026-04-30,Active,,
+C00673,Consumer,North,Paid Search,Basic,2026-02-01,Active,,
+C00674,Consumer,East,Organic,Pro,2025-01-05,Churned,2026-05-10,Price
+C00675,Consumer,West,Referral,Pro,2026-04-04,Churned,2026-06-07,Support Issues
+C00676,Enterprise,North,Partner,Pro,2025-11-26,Active,,
+C00677,Consumer,West,Partner,Basic,2025-11-04,Active,,
+C00678,Consumer,North,Organic,Basic,2025-11-29,Active,,
+C00679,Enterprise,South,Organic,Basic,2025-06-18,Active,,
+C00680,Enterprise,West,Partner,Basic,2025-06-30,Active,,
+C00681,SMB,West,Social,Basic,2026-01-01,Active,,
+C00682,Consumer,East,Partner,Pro,2025-06-27,Active,,
+C00683,Consumer,West,Organic,Basic,2025-05-23,Churned,2026-03-02,Low Usage
+C00684,SMB,West,Referral,Basic,2025-12-28,Active,,
+C00685,Enterprise,South,Social,Pro,2025-09-05,Active,,
+C00686,SMB,North,Referral,Pro,2025-05-07,Active,,
+C00687,SMB,South,Paid Search,Premium,2025-09-20,Active,,
+C00688,Consumer,South,Organic,Pro,2025-02-09,Churned,2026-06-12,Price
+C00689,SMB,West,Referral,Basic,2026-02-16,Churned,2026-06-12,Low Usage
+C00690,Consumer,East,Organic,Premium,2026-02-20,Churned,2026-02-12,Low Usage
+C00691,Consumer,South,Paid Search,Pro,2025-12-21,Active,,
+C00692,Consumer,North,Partner,Basic,2025-09-12,Active,,
+C00693,Consumer,West,Paid Search,Pro,2025-05-23,Active,,
+C00694,Consumer,South,Social,Premium,2025-08-28,Churned,2026-06-29,Low Usage
+C00695,Consumer,North,Organic,Basic,2025-08-16,Active,,
+C00696,SMB,West,Referral,Basic,2025-12-07,Active,,
+C00697,Consumer,West,Partner,Basic,2025-07-17,Active,,
+C00698,SMB,South,Organic,Basic,2025-03-06,Churned,2026-02-08,Low Usage
+C00699,Consumer,North,Organic,Pro,2026-01-23,Active,,
+C00700,Consumer,West,Paid Search,Pro,2025-01-11,Active,,
+C00701,Consumer,North,Organic,Basic,2025-04-18,Active,,
+C00702,Consumer,South,Social,Premium,2025-01-26,Churned,2026-06-12,Competitor
+C00703,Consumer,West,Partner,Pro,2026-03-21,Active,,
+C00704,Consumer,South,Paid Search,Pro,2026-02-25,Active,,
+C00705,Consumer,West,Organic,Premium,2025-05-31,Churned,2026-06-20,Low Usage
+C00706,Enterprise,South,Paid Search,Basic,2025-08-09,Active,,
+C00707,Consumer,East,Social,Pro,2025-12-07,Active,,
+C00708,SMB,North,Organic,Pro,2025-08-25,Churned,2026-02-21,Competitor
+C00709,Consumer,North,Referral,Premium,2025-08-25,Active,,
+C00710,SMB,South,Referral,Pro,2025-08-07,Churned,2026-05-29,Poor Experience
+C00711,SMB,South,Referral,Basic,2026-02-28,Active,,
+C00712,SMB,East,Organic,Premium,2026-04-06,Active,,
+C00713,Consumer,East,Social,Basic,2025-05-31,Churned,2026-04-19,Price
+C00714,Consumer,North,Organic,Premium,2025-05-03,Churned,2026-05-19,Support Issues
+C00715,Consumer,North,Organic,Premium,2025-05-24,Active,,
+C00716,Enterprise,West,Partner,Basic,2026-04-23,Active,,
+C00717,SMB,East,Social,Pro,2025-07-08,Active,,
+C00718,Enterprise,West,Organic,Basic,2025-09-12,Active,,
+C00719,Consumer,North,Organic,Basic,2025-03-09,Churned,2026-02-08,Low Usage
+C00720,SMB,North,Organic,Pro,2025-04-14,Active,,
+C00721,Enterprise,West,Organic,Pro,2025-12-02,Active,,
+C00722,Consumer,South,Organic,Premium,2025-06-08,Churned,2026-04-24,Competitor
+C00723,Consumer,West,Organic,Pro,2025-11-05,Churned,2026-05-09,Poor Experience
+C00724,SMB,North,Paid Search,Pro,2025-12-28,Active,,
+C00725,SMB,West,Social,Premium,2026-02-13,Active,,
+C00726,SMB,South,Referral,Premium,2025-10-27,Active,,
+C00727,Consumer,West,Referral,Basic,2026-01-31,Active,,
+C00728,SMB,North,Organic,Premium,2025-03-31,Active,,
+C00729,Consumer,West,Partner,Basic,2025-12-23,Active,,
+C00730,Consumer,South,Social,Premium,2025-09-13,Active,,
+C00731,Consumer,West,Social,Basic,2025-12-19,Churned,2026-03-07,Poor Experience
+C00732,SMB,West,Social,Basic,2025-08-08,Churned,2026-04-01,Price
+C00733,SMB,West,Partner,Pro,2025-01-09,Active,,
+C00734,Consumer,West,Referral,Pro,2025-01-12,Active,,
+C00735,Consumer,West,Organic,Basic,2025-11-21,Active,,
+C00736,Enterprise,West,Referral,Basic,2026-03-14,Active,,
+C00737,Consumer,South,Social,Pro,2025-09-01,Churned,2026-06-19,Price
+C00738,SMB,East,Social,Premium,2025-07-01,Churned,2026-03-07,Price
+C00739,Consumer,North,Referral,Basic,2025-10-11,Active,,
+C00740,Consumer,South,Organic,Basic,2025-11-08,Active,,
+C00741,Consumer,South,Paid Search,Pro,2025-04-09,Churned,2026-06-15,Support Issues
+C00742,Consumer,North,Partner,Basic,2025-07-16,Churned,2026-03-01,Competitor
+C00743,SMB,West,Referral,Premium,2026-04-27,Active,,
+C00744,Consumer,West,Referral,Premium,2026-01-01,Churned,2026-03-29,Low Usage
+C00745,Consumer,West,Organic,Pro,2025-08-14,Active,,
+C00746,Enterprise,North,Paid Search,Basic,2025-11-29,Active,,
+C00747,Consumer,North,Partner,Pro,2025-04-13,Active,,
+C00748,Consumer,South,Referral,Pro,2025-04-16,Active,,
+C00749,Enterprise,North,Social,Premium,2025-12-31,Active,,
+C00750,SMB,North,Paid Search,Pro,2026-01-03,Active,,
+C00751,Consumer,South,Referral,Pro,2025-02-27,Active,,
+C00752,Enterprise,South,Organic,Pro,2025-03-19,Active,,
+C00753,SMB,West,Social,Basic,2025-03-16,Churned,2026-02-23,Support Issues
+C00754,Consumer,West,Paid Search,Premium,2025-02-11,Active,,
+C00755,Consumer,East,Paid Search,Pro,2026-02-26,Active,,
+C00756,SMB,East,Referral,Pro,2025-11-20,Active,,
+C00757,SMB,West,Partner,Basic,2025-06-30,Active,,
+C00758,Consumer,North,Organic,Pro,2025-02-02,Active,,
+C00759,Enterprise,West,Social,Pro,2025-03-12,Active,,
+C00760,SMB,West,Paid Search,Basic,2025-02-25,Active,,
+C00761,Consumer,South,Paid Search,Basic,2025-04-15,Active,,
+C00762,Consumer,North,Organic,Pro,2025-07-19,Churned,2026-04-21,Low Usage
+C00763,Consumer,East,Paid Search,Pro,2025-04-11,Churned,2026-06-16,Price
+C00764,SMB,North,Referral,Pro,2025-09-13,Active,,
+C00765,Consumer,West,Organic,Basic,2025-11-03,Churned,2026-03-05,Support Issues
+C00766,SMB,West,Paid Search,Pro,2025-03-15,Churned,2026-06-11,Support Issues
+C00767,SMB,South,Partner,Basic,2025-06-20,Churned,2026-06-07,Low Usage
+C00768,Enterprise,North,Organic,Pro,2026-01-12,Active,,
+C00769,Consumer,North,Social,Basic,2025-05-23,Churned,2026-02-13,Competitor
+C00770,SMB,South,Paid Search,Basic,2025-06-15,Active,,
+C00771,Consumer,South,Referral,Basic,2026-02-03,Active,,
+C00772,SMB,East,Organic,Basic,2025-09-18,Active,,
+C00773,Consumer,South,Organic,Basic,2025-08-09,Active,,
+C00774,Consumer,North,Organic,Basic,2025-03-24,Active,,
+C00775,SMB,South,Organic,Pro,2025-07-01,Active,,
+C00776,Consumer,East,Organic,Pro,2025-11-03,Active,,
+C00777,Consumer,South,Referral,Basic,2025-01-10,Churned,2026-04-26,Price
+C00778,SMB,North,Partner,Premium,2026-01-31,Active,,
+C00779,SMB,East,Social,Basic,2025-01-04,Active,,
+C00780,SMB,East,Referral,Pro,2025-12-17,Active,,
+C00781,SMB,South,Organic,Basic,2026-02-06,Churned,2026-02-27,Low Usage
+C00782,Consumer,West,Paid Search,Basic,2025-12-02,Churned,2026-02-01,Competitor
+C00783,Consumer,North,Paid Search,Pro,2025-10-19,Churned,2026-03-14,Poor Experience
+C00784,Consumer,North,Organic,Pro,2025-10-08,Active,,
+C00785,Consumer,South,Referral,Premium,2025-08-03,Active,,
+C00786,Enterprise,South,Referral,Pro,2026-04-05,Churned,2026-04-03,Low Usage
+C00787,SMB,West,Paid Search,Premium,2025-04-08,Active,,
+C00788,Consumer,North,Paid Search,Basic,2026-02-24,Active,,
+C00789,Consumer,North,Social,Basic,2025-04-11,Active,,
+C00790,Enterprise,West,Social,Basic,2026-03-27,Active,,
+C00791,Consumer,West,Paid Search,Basic,2025-01-09,Churned,2026-04-18,Poor Experience
+C00792,SMB,South,Partner,Pro,2025-03-02,Active,,
+C00793,Consumer,West,Partner,Pro,2025-11-05,Active,,
+C00794,SMB,South,Paid Search,Basic,2025-05-26,Churned,2026-03-28,Support Issues
+C00795,Consumer,West,Paid Search,Premium,2026-03-03,Active,,
+C00796,Enterprise,West,Referral,Premium,2026-02-23,Churned,2026-04-18,Low Usage
+C00797,Enterprise,East,Partner,Basic,2025-03-04,Active,,
+C00798,SMB,South,Partner,Basic,2025-05-01,Active,,
+C00799,SMB,South,Organic,Basic,2025-08-14,Churned,2026-05-27,Low Usage
+C00800,Enterprise,South,Paid Search,Basic,2025-04-15,Active,,
+C00801,SMB,South,Referral,Basic,2026-04-07,Active,,
+C00802,Consumer,South,Referral,Pro,2025-09-17,Active,,
+C00803,SMB,East,Organic,Basic,2025-12-15,Churned,2026-04-24,Price
+C00804,SMB,South,Partner,Basic,2026-03-01,Active,,
+C00805,Consumer,South,Referral,Premium,2025-09-12,Churned,2026-06-03,Price
+C00806,SMB,West,Social,Pro,2026-03-05,Active,,
+C00807,Enterprise,North,Partner,Premium,2026-03-10,Active,,
+C00808,Enterprise,West,Social,Basic,2025-07-26,Active,,
+C00809,Consumer,South,Paid Search,Basic,2025-01-28,Active,,
+C00810,Consumer,North,Referral,Pro,2025-06-19,Active,,
+C00811,Enterprise,South,Organic,Basic,2025-12-02,Active,,
+C00812,SMB,South,Referral,Basic,2025-03-17,Active,,
+C00813,Consumer,East,Organic,Pro,2025-04-26,Churned,2026-06-04,Poor Experience
+C00814,Enterprise,South,Referral,Pro,2025-03-10,Active,,
+C00815,Enterprise,North,Organic,Basic,2025-12-20,Active,,
+C00816,Consumer,North,Organic,Pro,2025-08-22,Active,,
+C00817,SMB,North,Organic,Basic,2025-01-01,Active,,
+C00818,Consumer,East,Organic,Basic,2025-06-16,Active,,
+C00819,Consumer,South,Social,Basic,2025-12-18,Active,,
+C00820,Consumer,West,Social,Basic,2025-08-06,Active,,
+C00821,SMB,East,Referral,Basic,2025-09-30,Active,,
+C00822,Consumer,West,Organic,Premium,2026-01-03,Active,,
+C00823,Consumer,East,Organic,Pro,2025-09-08,Active,,
+C00824,Consumer,South,Organic,Pro,2025-12-13,Active,,
+C00825,Consumer,North,Organic,Basic,2025-12-10,Active,,
+C00826,Enterprise,South,Partner,Basic,2026-02-23,Active,,
+C00827,Consumer,West,Organic,Basic,2025-06-23,Active,,
+C00828,Consumer,East,Paid Search,Basic,2025-06-19,Active,,
+C00829,SMB,South,Organic,Basic,2025-09-03,Active,,
+C00830,Consumer,West,Organic,Pro,2026-02-27,Active,,
+C00831,Consumer,South,Referral,Pro,2025-03-31,Churned,2026-06-20,Poor Experience
+C00832,Consumer,West,Referral,Pro,2025-02-18,Active,,
+C00833,Consumer,North,Organic,Pro,2026-03-22,Active,,
+C00834,Consumer,East,Organic,Premium,2025-10-21,Active,,
+C00835,Consumer,West,Paid Search,Basic,2026-02-11,Active,,
+C00836,Consumer,North,Organic,Basic,2025-05-30,Active,,
+C00837,Enterprise,South,Organic,Basic,2025-05-12,Active,,
+C00838,Consumer,South,Partner,Pro,2026-03-09,Active,,
+C00839,SMB,South,Referral,Premium,2025-02-28,Active,,
+C00840,SMB,South,Referral,Basic,2026-04-02,Churned,2026-06-19,Competitor
+C00841,Consumer,East,Paid Search,Premium,2025-11-20,Active,,
+C00842,SMB,West,Paid Search,Premium,2025-07-18,Churned,2026-06-27,Poor Experience
+C00843,Consumer,North,Referral,Basic,2025-08-03,Churned,2026-02-22,Support Issues
+C00844,Enterprise,South,Referral,Basic,2026-01-21,Active,,
+C00845,Consumer,East,Social,Basic,2025-02-18,Churned,2026-02-22,Price
+C00846,Consumer,West,Organic,Premium,2026-04-17,Churned,2026-03-25,Support Issues
+C00847,Consumer,South,Referral,Basic,2025-08-20,Churned,2026-04-22,Price
+C00848,Enterprise,West,Paid Search,Pro,2025-09-04,Active,,
+C00849,Consumer,North,Partner,Basic,2026-01-17,Active,,
+C00850,SMB,South,Referral,Pro,2026-04-24,Active,,
+C00851,Consumer,North,Referral,Pro,2025-08-27,Active,,
+C00852,SMB,North,Organic,Pro,2026-02-19,Active,,
+C00853,Consumer,South,Referral,Premium,2026-01-02,Active,,
+C00854,Enterprise,East,Organic,Premium,2025-06-17,Active,,
+C00855,Consumer,East,Paid Search,Premium,2025-02-17,Active,,
+C00856,Consumer,West,Organic,Basic,2025-02-20,Churned,2026-05-16,Low Usage
+C00857,Consumer,North,Referral,Pro,2025-10-26,Active,,
+C00858,Consumer,North,Organic,Basic,2025-04-08,Active,,
+C00859,SMB,West,Paid Search,Basic,2026-03-15,Active,,
+C00860,Consumer,North,Partner,Pro,2025-08-04,Active,,
+C00861,SMB,South,Organic,Basic,2025-06-26,Churned,2026-04-07,Low Usage
+C00862,Consumer,North,Referral,Pro,2026-01-15,Active,,
+C00863,Consumer,West,Paid Search,Premium,2026-04-19,Active,,
+C00864,Consumer,North,Organic,Basic,2025-03-21,Active,,
+C00865,Consumer,South,Social,Pro,2025-07-04,Active,,
+C00866,SMB,West,Organic,Basic,2026-01-02,Active,,
+C00867,Consumer,South,Paid Search,Basic,2026-04-06,Active,,
+C00868,Consumer,South,Referral,Basic,2026-02-03,Active,,
+C00869,Enterprise,South,Referral,Premium,2025-01-27,Churned,2026-05-01,Price
+C00870,Enterprise,North,Referral,Premium,2026-03-28,Active,,
+C00871,Consumer,West,Organic,Premium,2026-04-09,Active,,
+C00872,Consumer,North,Organic,Premium,2026-03-24,Active,,
+C00873,SMB,South,Social,Basic,2026-04-23,Active,,
+C00874,Consumer,East,Referral,Basic,2026-02-18,Active,,
+C00875,Consumer,East,Social,Pro,2026-02-24,Churned,2026-05-20,Poor Experience
+C00876,Consumer,East,Social,Pro,2025-07-14,Active,,
+C00877,SMB,South,Social,Basic,2025-08-02,Active,,
+C00878,SMB,North,Paid Search,Basic,2026-01-04,Churned,2026-02-28,Low Usage
+C00879,Consumer,East,Paid Search,Pro,2025-12-08,Active,,
+C00880,Consumer,West,Social,Pro,2025-04-24,Active,,
+C00881,Consumer,South,Paid Search,Basic,2025-08-30,Active,,
+C00882,SMB,South,Organic,Pro,2025-05-04,Active,,
+C00883,Consumer,North,Partner,Pro,2025-11-01,Active,,
+C00884,Consumer,East,Partner,Pro,2025-03-17,Active,,
+C00885,SMB,North,Paid Search,Basic,2025-11-07,Churned,2026-03-27,Competitor
+C00886,Consumer,North,Organic,Pro,2026-04-14,Active,,
+C00887,SMB,South,Paid Search,Basic,2025-11-08,Active,,
+C00888,Consumer,West,Social,Basic,2025-07-15,Active,,
+C00889,Consumer,East,Partner,Pro,2025-12-17,Active,,
+C00890,Consumer,North,Organic,Pro,2025-02-13,Churned,2026-05-31,Competitor
+C00891,SMB,West,Organic,Basic,2026-02-19,Active,,
+C00892,Enterprise,East,Partner,Pro,2025-07-05,Active,,
+C00893,SMB,South,Paid Search,Pro,2025-12-09,Active,,
+C00894,Consumer,North,Referral,Pro,2025-09-03,Active,,
+C00895,SMB,South,Partner,Pro,2026-03-13,Churned,2026-06-10,Poor Experience
+C00896,Consumer,West,Organic,Pro,2025-03-25,Active,,
+C00897,Consumer,West,Referral,Pro,2025-07-26,Churned,2026-06-14,Price
+C00898,Enterprise,West,Organic,Basic,2025-05-31,Active,,
+C00899,Consumer,West,Paid Search,Basic,2025-06-05,Active,,
+C00900,Consumer,North,Social,Basic,2025-01-16,Churned,2026-06-09,Poor Experience
+C00901,Consumer,East,Paid Search,Pro,2025-06-14,Active,,
+C00902,Consumer,North,Partner,Pro,2026-02-09,Active,,
+C00903,Consumer,South,Referral,Basic,2026-04-08,Active,,
+C00904,SMB,West,Paid Search,Basic,2025-05-25,Active,,
+C00905,Consumer,West,Organic,Pro,2025-02-06,Churned,2026-02-16,Poor Experience
+C00906,Enterprise,South,Paid Search,Basic,2025-11-29,Active,,
+C00907,SMB,East,Paid Search,Pro,2026-02-07,Active,,
+C00908,Consumer,East,Organic,Basic,2026-02-18,Active,,
+C00909,Consumer,South,Paid Search,Pro,2025-02-14,Churned,2026-04-15,Poor Experience
+C00910,Consumer,East,Paid Search,Premium,2026-02-06,Active,,
+C00911,SMB,South,Social,Basic,2025-07-25,Active,,
+C00912,Consumer,South,Referral,Pro,2025-03-03,Active,,
+C00913,SMB,South,Social,Basic,2026-02-24,Active,,
+C00914,Consumer,East,Organic,Pro,2025-12-22,Churned,2026-06-15,Low Usage
+C00915,SMB,West,Organic,Pro,2026-04-13,Churned,2026-04-17,Competitor
+C00916,Consumer,South,Referral,Basic,2025-11-04,Active,,
+C00917,Consumer,North,Paid Search,Pro,2025-01-19,Active,,
+C00918,Enterprise,West,Organic,Premium,2025-12-31,Active,,
+C00919,SMB,South,Social,Basic,2025-10-27,Active,,
+C00920,Consumer,East,Social,Basic,2025-01-07,Churned,2026-05-24,Support Issues
+C00921,Enterprise,West,Referral,Premium,2025-09-06,Active,,
+C00922,Consumer,North,Organic,Pro,2026-03-04,Active,,
+C00923,Enterprise,East,Social,Premium,2025-04-27,Active,,
+C00924,SMB,North,Referral,Pro,2025-03-09,Churned,2026-05-10,Poor Experience
+C00925,Consumer,East,Social,Premium,2025-02-03,Active,,
+C00926,Consumer,West,Social,Pro,2025-07-13,Active,,
+C00927,Consumer,West,Social,Pro,2025-11-21,Active,,
+C00928,Consumer,South,Referral,Premium,2025-02-24,Active,,
+C00929,SMB,East,Organic,Pro,2025-09-23,Churned,2026-06-06,Poor Experience
+C00930,Consumer,North,Referral,Basic,2026-04-25,Active,,
+C00931,Consumer,South,Referral,Basic,2025-02-11,Churned,2026-06-20,Price
+C00932,SMB,South,Social,Basic,2025-10-24,Churned,2026-04-09,Poor Experience
+C00933,Enterprise,North,Organic,Basic,2026-04-06,Active,,
+C00934,Consumer,North,Organic,Basic,2025-08-19,Active,,
+C00935,Consumer,West,Partner,Pro,2026-03-29,Active,,
+C00936,Consumer,East,Social,Pro,2026-01-13,Active,,
+C00937,Consumer,South,Partner,Pro,2026-01-29,Churned,2026-06-14,Competitor
+C00938,Enterprise,West,Social,Pro,2025-01-10,Active,,
+C00939,Consumer,South,Referral,Basic,2025-12-24,Active,,
+C00940,SMB,East,Referral,Basic,2026-04-20,Active,,
+C00941,Consumer,East,Partner,Basic,2026-03-20,Churned,2026-05-02,Price
+C00942,SMB,North,Referral,Pro,2025-05-08,Active,,
+C00943,SMB,West,Referral,Basic,2025-06-28,Churned,2026-06-11,Competitor
+C00944,SMB,South,Organic,Basic,2026-02-09,Active,,
+C00945,Consumer,North,Paid Search,Basic,2026-01-27,Active,,
+C00946,Consumer,East,Social,Premium,2025-07-12,Active,,
+C00947,Consumer,North,Organic,Basic,2025-04-02,Active,,
+C00948,Enterprise,North,Organic,Pro,2026-01-04,Active,,
+C00949,Enterprise,North,Paid Search,Pro,2025-08-19,Active,,
+C00950,SMB,East,Organic,Pro,2025-03-19,Active,,
+C00951,SMB,North,Organic,Premium,2025-03-26,Active,,
+C00952,SMB,South,Paid Search,Basic,2025-01-30,Active,,
+C00953,Consumer,West,Partner,Basic,2025-08-01,Active,,
+C00954,Enterprise,East,Referral,Premium,2025-02-18,Active,,
+C00955,Consumer,South,Organic,Pro,2025-09-22,Active,,
+C00956,Consumer,South,Organic,Pro,2025-05-25,Active,,
+C00957,Consumer,South,Referral,Pro,2025-03-10,Active,,
+C00958,Consumer,North,Paid Search,Pro,2025-02-27,Active,,
+C00959,Consumer,North,Social,Premium,2025-07-04,Active,,
+C00960,SMB,West,Referral,Premium,2025-03-03,Active,,
+C00961,Consumer,West,Social,Pro,2026-04-24,Active,,
+C00962,SMB,West,Organic,Basic,2025-11-04,Churned,2026-02-28,Competitor
+C00963,Consumer,North,Referral,Premium,2026-03-21,Active,,
+C00964,Consumer,East,Organic,Basic,2025-10-23,Active,,
+C00965,Consumer,North,Partner,Basic,2025-06-15,Active,,
+C00966,Consumer,East,Referral,Premium,2025-06-20,Active,,
+C00967,SMB,West,Paid Search,Basic,2025-03-04,Active,,
+C00968,Consumer,South,Organic,Basic,2025-05-27,Active,,
+C00969,SMB,West,Organic,Basic,2026-04-29,Active,,
+C00970,Consumer,North,Referral,Premium,2025-11-02,Active,,
+C00971,SMB,West,Organic,Pro,2025-06-10,Active,,
+C00972,Enterprise,South,Referral,Pro,2025-05-21,Active,,
+C00973,SMB,South,Organic,Basic,2025-11-30,Active,,
+C00974,Consumer,East,Referral,Pro,2025-04-07,Active,,
+C00975,Consumer,South,Social,Pro,2026-03-22,Active,,
+C00976,Consumer,East,Social,Basic,2025-08-09,Churned,2026-06-18,Poor Experience
+C00977,SMB,South,Social,Basic,2025-02-12,Active,,
+C00978,Consumer,West,Organic,Basic,2026-03-09,Active,,
+C00979,Consumer,West,Organic,Premium,2025-10-19,Active,,
+C00980,SMB,North,Referral,Pro,2026-01-13,Active,,
+C00981,Consumer,South,Paid Search,Premium,2025-04-18,Active,,
+C00982,SMB,South,Paid Search,Basic,2025-09-23,Churned,2026-03-20,Price
+C00983,Consumer,South,Organic,Pro,2025-04-05,Churned,2026-04-16,Poor Experience
+C00984,Consumer,South,Organic,Pro,2025-09-19,Churned,2026-03-21,Price
+C00985,SMB,West,Organic,Pro,2025-11-09,Active,,
+C00986,Consumer,East,Partner,Premium,2026-01-20,Active,,
+C00987,SMB,East,Organic,Basic,2025-03-12,Churned,2026-05-14,Price
+C00988,Consumer,West,Referral,Basic,2026-03-18,Active,,
+C00989,Consumer,West,Organic,Pro,2025-08-07,Active,,
+C00990,SMB,West,Referral,Pro,2025-01-21,Churned,2026-04-02,Price
+C00991,SMB,South,Paid Search,Pro,2025-04-02,Active,,
+C00992,SMB,East,Partner,Basic,2025-05-07,Churned,2026-02-20,Price
+C00993,Consumer,West,Partner,Pro,2025-03-21,Active,,
+C00994,SMB,West,Paid Search,Basic,2025-11-08,Churned,2026-02-20,Low Usage
+C00995,Consumer,South,Partner,Pro,2025-08-26,Active,,
+C00996,Consumer,North,Partner,Pro,2026-04-16,Active,,
+C00997,Enterprise,North,Social,Pro,2026-01-07,Active,,
+C00998,Consumer,East,Social,Basic,2026-02-08,Active,,
+C00999,Enterprise,North,Organic,Basic,2025-07-01,Active,,
+C01000,Consumer,North,Referral,Basic,2025-01-25,Active,,
+C01001,Consumer,East,Organic,Basic,2025-06-05,Active,,
+C01002,Consumer,South,Organic,Pro,2025-01-05,Churned,2026-05-11,Price
+C01003,Enterprise,North,Partner,Premium,2025-04-30,Active,,
+C01004,SMB,South,Paid Search,Basic,2025-10-04,Active,,
+C01005,SMB,West,Social,Pro,2025-01-18,Churned,2026-05-27,Poor Experience
+C01006,SMB,East,Social,Premium,2026-03-07,Active,,
+C01007,SMB,South,Partner,Premium,2025-07-17,Active,,
+C01008,SMB,East,Partner,Basic,2025-02-26,Active,,
+C01009,Consumer,South,Organic,Premium,2025-04-03,Active,,
+C01010,Consumer,East,Organic,Basic,2025-01-19,Churned,2026-03-12,Support Issues
+C01011,Consumer,West,Paid Search,Basic,2026-01-19,Active,,
+C01012,Enterprise,West,Organic,Basic,2025-12-19,Active,,
+C01013,Enterprise,South,Organic,Pro,2025-07-12,Active,,
+C01014,Consumer,East,Paid Search,Basic,2025-08-25,Active,,
+C01015,SMB,West,Social,Basic,2026-01-22,Active,,
+C01016,Enterprise,South,Referral,Basic,2026-03-02,Active,,
+C01017,Consumer,East,Paid Search,Premium,2025-10-04,Churned,2026-05-20,Low Usage
+C01018,SMB,South,Referral,Premium,2025-08-15,Churned,2026-04-30,Competitor
+C01019,Enterprise,East,Organic,Basic,2025-08-21,Active,,
+C01020,Consumer,South,Organic,Premium,2025-02-09,Churned,2026-02-08,Poor Experience
+C01021,SMB,West,Social,Premium,2025-11-19,Active,,
+C01022,Consumer,North,Referral,Pro,2025-06-02,Active,,
+C01023,Enterprise,South,Social,Basic,2025-05-07,Churned,2026-04-07,Low Usage
+C01024,Enterprise,South,Organic,Pro,2025-08-25,Churned,2026-05-09,Support Issues
+C01025,Enterprise,South,Social,Premium,2025-02-24,Active,,
+C01026,Consumer,North,Referral,Pro,2026-04-13,Churned,2026-06-02,Poor Experience
+C01027,Enterprise,South,Referral,Basic,2026-03-12,Active,,
+C01028,SMB,West,Referral,Pro,2025-06-21,Active,,
+C01029,Consumer,South,Partner,Pro,2025-04-19,Active,,
+C01030,SMB,South,Referral,Pro,2025-12-20,Churned,2026-04-15,Low Usage
+C01031,Consumer,West,Referral,Basic,2026-04-14,Active,,
+C01032,SMB,South,Partner,Basic,2025-07-03,Churned,2026-05-27,Support Issues
+C01033,Consumer,East,Social,Premium,2026-03-15,Active,,
+C01034,Consumer,East,Paid Search,Premium,2026-01-03,Active,,
+C01035,Consumer,West,Social,Basic,2026-04-16,Active,,
+C01036,SMB,West,Paid Search,Premium,2025-07-17,Active,,
+C01037,Consumer,East,Organic,Basic,2026-01-06,Active,,
+C01038,SMB,South,Referral,Pro,2026-01-08,Active,,
+C01039,Consumer,South,Partner,Pro,2026-04-06,Active,,
+C01040,Consumer,South,Partner,Premium,2025-03-28,Active,,
+C01041,Consumer,West,Paid Search,Premium,2025-07-20,Active,,
+C01042,SMB,South,Referral,Basic,2025-12-03,Active,,
+C01043,Consumer,West,Organic,Premium,2025-11-18,Active,,
+C01044,SMB,East,Partner,Basic,2025-10-02,Active,,
+C01045,Enterprise,East,Partner,Pro,2025-07-30,Active,,
+C01046,SMB,North,Referral,Pro,2026-01-26,Active,,
+C01047,Consumer,South,Social,Pro,2025-04-28,Active,,
+C01048,Consumer,East,Social,Basic,2025-07-10,Active,,
+C01049,Enterprise,West,Referral,Premium,2025-02-11,Active,,
+C01050,Consumer,South,Organic,Basic,2025-02-11,Active,,
+C01051,Enterprise,South,Paid Search,Basic,2025-11-11,Active,,
+C01052,Consumer,East,Referral,Pro,2025-10-03,Churned,2026-06-21,Low Usage
+C01053,Enterprise,West,Referral,Pro,2025-11-25,Active,,
+C01054,SMB,East,Paid Search,Premium,2025-01-17,Active,,
+C01055,Enterprise,East,Partner,Basic,2025-10-10,Active,,
+C01056,Consumer,West,Organic,Basic,2026-03-07,Active,,
+C01057,SMB,North,Referral,Premium,2025-09-15,Active,,
+C01058,Consumer,North,Referral,Pro,2025-03-04,Churned,2026-03-28,Poor Experience
+C01059,Consumer,South,Referral,Basic,2025-03-03,Active,,
+C01060,SMB,North,Referral,Pro,2025-04-10,Churned,2026-04-24,Competitor
+C01061,Enterprise,West,Organic,Pro,2025-01-19,Active,,
+C01062,Enterprise,West,Organic,Pro,2025-01-17,Active,,
+C01063,SMB,East,Referral,Pro,2025-11-21,Active,,
+C01064,Consumer,North,Referral,Premium,2026-02-27,Churned,2026-06-18,Price
+C01065,Consumer,West,Organic,Premium,2026-04-11,Active,,
+C01066,SMB,West,Social,Pro,2026-01-08,Active,,
+C01067,Consumer,West,Paid Search,Basic,2025-09-03,Churned,2026-04-29,Poor Experience
+C01068,Consumer,West,Referral,Premium,2025-09-08,Churned,2026-04-04,Price
+C01069,Consumer,South,Social,Pro,2026-03-31,Active,,
+C01070,Consumer,North,Organic,Pro,2025-03-22,Active,,
+C01071,Consumer,South,Organic,Basic,2025-02-08,Active,,
+C01072,Consumer,North,Social,Premium,2025-02-05,Churned,2026-02-16,Price
+C01073,Consumer,North,Referral,Pro,2026-02-28,Active,,
+C01074,Consumer,West,Referral,Basic,2026-03-05,Active,,
+C01075,Enterprise,East,Social,Basic,2026-01-23,Active,,
+C01076,Consumer,West,Social,Premium,2026-02-13,Active,,
+C01077,Consumer,West,Partner,Basic,2025-07-16,Active,,
+C01078,SMB,North,Referral,Premium,2025-06-07,Active,,
+C01079,Consumer,West,Paid Search,Pro,2025-07-23,Active,,
+C01080,Enterprise,South,Paid Search,Pro,2025-07-15,Active,,
+C01081,SMB,South,Organic,Basic,2025-08-04,Active,,
+C01082,Consumer,North,Referral,Basic,2025-10-12,Churned,2026-03-13,Low Usage
+C01083,Consumer,North,Organic,Premium,2026-04-02,Churned,2026-04-10,Poor Experience
+C01084,Enterprise,South,Partner,Basic,2025-07-15,Active,,
+C01085,Enterprise,South,Referral,Pro,2025-11-03,Active,,
+C01086,Consumer,South,Referral,Basic,2025-06-01,Churned,2026-05-22,Competitor
+C01087,SMB,East,Paid Search,Basic,2025-01-14,Churned,2026-02-19,Poor Experience
+C01088,Consumer,North,Organic,Basic,2025-11-21,Churned,2026-02-17,Competitor
+C01089,Enterprise,North,Organic,Pro,2025-05-26,Churned,2026-05-02,Poor Experience
+C01090,Consumer,South,Paid Search,Premium,2026-03-02,Active,,
+C01091,Enterprise,West,Organic,Basic,2025-02-26,Churned,2026-02-17,Poor Experience
+C01092,SMB,South,Referral,Basic,2025-07-30,Churned,2026-05-02,Low Usage
+C01093,SMB,South,Partner,Basic,2025-09-25,Active,,
+C01094,Consumer,North,Partner,Pro,2025-07-29,Active,,
+C01095,Consumer,South,Referral,Pro,2025-01-17,Active,,
+C01096,Consumer,South,Organic,Premium,2025-10-13,Active,,
+C01097,Consumer,South,Partner,Pro,2025-12-10,Active,,
+C01098,Consumer,South,Partner,Pro,2025-07-22,Active,,
+C01099,SMB,South,Organic,Basic,2025-04-09,Active,,
+C01100,Consumer,North,Social,Premium,2025-10-06,Active,,
+C01101,Consumer,West,Paid Search,Basic,2025-07-28,Active,,
+C01102,Enterprise,West,Social,Basic,2025-05-09,Active,,
+C01103,Enterprise,North,Partner,Pro,2025-12-01,Active,,
+C01104,Enterprise,South,Organic,Pro,2025-10-15,Active,,
+C01105,Enterprise,East,Partner,Basic,2025-09-09,Active,,
+C01106,Consumer,North,Referral,Pro,2025-09-22,Churned,2026-02-04,Competitor
+C01107,Consumer,South,Partner,Pro,2025-09-28,Churned,2026-03-02,Support Issues
+C01108,SMB,West,Paid Search,Basic,2026-02-16,Active,,
+C01109,SMB,South,Social,Premium,2026-02-12,Active,,
+C01110,Consumer,North,Organic,Pro,2025-07-07,Churned,2026-05-01,Price
+C01111,SMB,North,Paid Search,Basic,2026-02-23,Active,,
+C01112,Consumer,East,Organic,Pro,2025-08-02,Churned,2026-03-05,Competitor
+C01113,Consumer,North,Partner,Basic,2025-10-10,Active,,
+C01114,Consumer,West,Social,Pro,2025-07-30,Churned,2026-02-10,Poor Experience
+C01115,SMB,East,Partner,Pro,2025-12-31,Active,,
+C01116,SMB,South,Partner,Basic,2025-03-17,Active,,
+C01117,Consumer,South,Organic,Pro,2025-05-28,Active,,
+C01118,Enterprise,North,Paid Search,Premium,2025-11-17,Active,,
+C01119,Consumer,North,Organic,Pro,2025-08-01,Active,,
+C01120,Consumer,North,Organic,Premium,2026-03-09,Active,,
+C01121,Enterprise,East,Organic,Basic,2025-04-19,Active,,
+C01122,Enterprise,West,Paid Search,Basic,2025-05-09,Active,,
+C01123,Enterprise,West,Organic,Basic,2025-01-10,Active,,
+C01124,SMB,South,Organic,Basic,2025-02-16,Active,,
+C01125,SMB,East,Organic,Basic,2026-01-14,Active,,
+C01126,SMB,East,Organic,Basic,2025-11-11,Churned,2026-04-27,Low Usage
+C01127,Consumer,East,Partner,Premium,2025-04-06,Churned,2026-04-11,Support Issues
+C01128,Consumer,South,Social,Premium,2026-03-22,Churned,2026-04-13,Competitor
+C01129,Consumer,West,Partner,Pro,2025-04-13,Active,,
+C01130,Consumer,South,Paid Search,Basic,2026-01-15,Churned,2026-04-27,Poor Experience
+C01131,SMB,South,Organic,Basic,2025-12-08,Active,,
+C01132,Consumer,South,Social,Basic,2025-05-26,Churned,2026-06-02,Price
+C01133,Consumer,West,Paid Search,Pro,2026-01-03,Active,,
+C01134,Consumer,West,Paid Search,Premium,2026-03-06,Active,,
+C01135,SMB,South,Organic,Pro,2026-02-20,Churned,2026-06-12,Low Usage
+C01136,Consumer,North,Organic,Basic,2025-01-27,Churned,2026-05-03,Price
+C01137,Enterprise,North,Organic,Pro,2025-08-08,Active,,
+C01138,Consumer,North,Paid Search,Basic,2025-01-18,Active,,
+C01139,Consumer,South,Referral,Basic,2025-06-16,Active,,
+C01140,SMB,North,Organic,Pro,2026-03-09,Active,,
+C01141,SMB,West,Organic,Pro,2026-04-22,Churned,2026-04-01,Poor Experience
+C01142,Consumer,South,Social,Basic,2025-03-23,Active,,
+C01143,SMB,South,Organic,Basic,2026-03-04,Churned,2026-06-16,Poor Experience
+C01144,SMB,North,Paid Search,Premium,2025-03-13,Active,,
+C01145,Consumer,East,Partner,Basic,2025-11-06,Active,,
+C01146,Enterprise,West,Organic,Basic,2026-04-24,Active,,
+C01147,SMB,West,Organic,Basic,2025-09-11,Churned,2026-03-31,Poor Experience
+C01148,SMB,North,Paid Search,Basic,2025-06-11,Active,,
+C01149,Enterprise,West,Paid Search,Basic,2025-11-23,Churned,2026-03-22,Price
+C01150,Enterprise,South,Referral,Premium,2026-02-24,Active,,
+C01151,SMB,West,Social,Basic,2026-02-06,Active,,
+C01152,SMB,East,Organic,Pro,2025-02-07,Active,,
+C01153,SMB,West,Referral,Pro,2026-03-19,Active,,
+C01154,SMB,East,Referral,Pro,2026-01-28,Active,,
+C01155,SMB,West,Organic,Premium,2025-07-20,Active,,
+C01156,SMB,South,Referral,Premium,2025-07-19,Active,,
+C01157,Consumer,East,Organic,Basic,2025-09-12,Churned,2026-05-12,Low Usage
+C01158,Enterprise,South,Paid Search,Pro,2025-06-28,Active,,
+C01159,Enterprise,North,Organic,Pro,2025-02-04,Active,,
+C01160,Consumer,South,Paid Search,Premium,2025-03-23,Active,,
+C01161,SMB,South,Paid Search,Pro,2026-01-24,Active,,
+C01162,Consumer,North,Social,Premium,2026-02-02,Churned,2026-03-15,Support Issues
+C01163,Consumer,South,Organic,Pro,2025-08-08,Active,,
+C01164,SMB,North,Paid Search,Basic,2025-06-07,Active,,
+C01165,Consumer,West,Paid Search,Pro,2025-01-04,Active,,
+C01166,SMB,South,Social,Premium,2025-06-16,Churned,2026-06-03,Competitor
+C01167,SMB,South,Referral,Premium,2026-04-13,Active,,
+C01168,Consumer,North,Referral,Basic,2026-03-24,Active,,
+C01169,Consumer,North,Social,Pro,2026-02-13,Active,,
+C01170,Consumer,West,Partner,Basic,2026-02-16,Active,,
+C01171,SMB,West,Paid Search,Basic,2025-07-23,Active,,
+C01172,Enterprise,East,Referral,Basic,2025-07-13,Active,,
+C01173,SMB,West,Social,Basic,2025-08-23,Active,,
+C01174,Consumer,North,Partner,Premium,2025-07-25,Active,,
+C01175,SMB,West,Partner,Basic,2025-05-30,Active,,
+C01176,Consumer,South,Paid Search,Premium,2025-06-08,Active,,
+C01177,SMB,South,Organic,Basic,2025-10-06,Churned,2026-02-23,Price
+C01178,Consumer,West,Paid Search,Basic,2025-10-31,Active,,
+C01179,SMB,North,Social,Basic,2026-02-08,Churned,2026-05-30,Price
+C01180,Consumer,West,Paid Search,Basic,2026-01-16,Active,,
+C01181,Enterprise,East,Paid Search,Basic,2025-06-15,Active,,
+C01182,Consumer,East,Social,Basic,2025-11-07,Active,,
+C01183,SMB,East,Paid Search,Pro,2025-03-09,Active,,
+C01184,Enterprise,North,Partner,Basic,2026-04-08,Active,,
+C01185,Consumer,South,Paid Search,Basic,2025-03-29,Active,,
+C01186,Enterprise,West,Paid Search,Basic,2025-08-05,Active,,
+C01187,SMB,North,Paid Search,Premium,2025-01-01,Churned,2026-06-07,Price
+C01188,Consumer,West,Social,Premium,2025-05-15,Active,,
+C01189,Consumer,West,Organic,Pro,2025-07-04,Active,,
+C01190,SMB,West,Organic,Basic,2025-12-17,Active,,
+C01191,Consumer,North,Partner,Basic,2025-05-20,Churned,2026-02-06,Competitor
+C01192,SMB,South,Organic,Premium,2025-04-16,Active,,
+C01193,Consumer,North,Referral,Basic,2025-05-13,Active,,
+C01194,SMB,South,Referral,Basic,2025-04-18,Churned,2026-04-01,Support Issues
+C01195,Consumer,East,Paid Search,Basic,2025-06-27,Active,,
+C01196,Enterprise,North,Referral,Basic,2025-10-25,Churned,2026-04-03,Low Usage
+C01197,Enterprise,South,Organic,Basic,2025-12-24,Active,,
+C01198,Enterprise,South,Referral,Pro,2026-01-15,Active,,
+C01199,SMB,West,Paid Search,Basic,2026-01-31,Churned,2026-05-24,Low Usage
+C01200,Consumer,West,Referral,Pro,2025-12-25,Active,,

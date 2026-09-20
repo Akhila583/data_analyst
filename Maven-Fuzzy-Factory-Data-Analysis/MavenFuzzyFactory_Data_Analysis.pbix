@@ -1,1 +1,158 @@
+Core KPI Measures
+1. Total Revenue
+Total Revenue =
+SUM(orders[price_usd])
+
+Result: ~$1.94M
+2. Total Profit
+
+For product-level profitability, use order_items:
+
+Total Profit =
+SUM(order_items[price_usd]) - SUM(order_items[cogs_usd])
+
+Result: ~$1.22M
+
+3. Total Orders
+Total Orders =
+DISTINCTCOUNT(orders[order_id])
+
+Result: ~32K
+
+4. Total Sessions
+Total Sessions =
+DISTINCTCOUNT(website_sessions[website_session_id])
+
+Result: ~473K
+
+5. Conversion Rate
+Conversion Rate =
+DIVIDE(
+    [Total Orders],
+    [Total Sessions],
+    0
+)
+
+Then format it as Percentage.
+
+Result: ~6.83%
+
+6. Revenue per Session
+Revenue per Session =
+DIVIDE(
+    [Total Revenue],
+    [Total Sessions],
+    0
+)
+
+Result: ~$4.10
+
+Product Analysis Measures
+7. Total COGS
+Total COGS =
+SUM(order_items[cogs_usd])
+8. Profit Margin
+Profit Margin =
+DIVIDE(
+    [Total Profit],
+    [Total Revenue],
+    0
+)
+
+Format as Percentage.
+
+9. Total Refunds
+Total Refunds =
+SUM(order_item_refunds[refund_amount_usd])
+10. Refund Rate
+Refund Rate =
+DIVIDE(
+    [Total Refunds],
+    [Total Revenue],
+    0
+)
+
+Format as Percentage.
+
+Useful E-commerce Measures
+11. Average Order Value
+Average Order Value =
+DIVIDE(
+    [Total Revenue],
+    [Total Orders],
+    0
+)
+12. Orders per Session
+Orders per Session =
+DIVIDE(
+    [Total Orders],
+    [Total Sessions],
+    0
+)
+13. Total Pageviews
+Total Pageviews =
+DISTINCTCOUNT(website_pageviews[website_pageview_id])
+14. Pages per Session
+Pages per Session =
+DIVIDE(
+    [Total Pageviews],
+    [Total Sessions],
+    0
+)
+New vs Repeat Sessions
+
+If is_repeat_session exists in website_sessions:
+
+15. New Sessions
+New Sessions =
+CALCULATE(
+    [Total Sessions],
+    website_sessions[is_repeat_session] = 0
+)
+16. Repeat Sessions
+Repeat Sessions =
+CALCULATE(
+    [Total Sessions],
+    website_sessions[is_repeat_session] = 1
+)
+17. Repeat Session Rate
+Repeat Session Rate =
+DIVIDE(
+    [Repeat Sessions],
+    [Total Sessions],
+    0
+)
+Your final Measures folder
+
+I recommend keeping these 12 main measures in your report:
+
+Total Revenue
+Total Profit
+Total Orders
+Total Sessions
+Conversion Rate
+Revenue per Session
+Total COGS
+Profit Margin
+Total Refunds
+Average Order Value
+Total Pageviews
+Pages per Session
+
+And these additional measures for the website analysis:
+
+New Sessions
+Repeat Sessions
+Repeat Session Rate
+Important correction
+
+For Total Revenue, we used:
+
+SUM(orders[price_usd])
+
+For Total Profit, don't use orders[price_usd] - order_items[cogs_usd] directly because they are at different grain levels. The safer calculation for the product/order-item analysis is:
+
+Total Profit =
+SUM(order_items[price_usd]) - SUM(order_items[cogs_usd])
+
 

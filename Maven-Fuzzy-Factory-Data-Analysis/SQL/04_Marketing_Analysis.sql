@@ -90,26 +90,32 @@ ORDER BY
     sessions DESC;
 
 
--- 6. Landing Page Conversion Rate
+-- 6. True Landing Page Performance
+-- Identifies the first pageview for each website session
+
+WITH first_pageview AS (
+    SELECT
+        website_session_id,
+        pageview_url,
+        ROW_NUMBER() OVER (
+            PARTITION BY website_session_id
+            ORDER BY website_pageview_id
+        ) AS pageview_rank
+    FROM website_pageviews
+)
 
 SELECT
-    wp.pageview_url AS landing_page,
-    COUNT(DISTINCT wp.website_session_id) AS sessions,
+    fp.pageview_url AS landing_page,
+    COUNT(DISTINCT fp.website_session_id) AS sessions,
     COUNT(DISTINCT o.order_id) AS orders,
     COUNT(DISTINCT o.order_id) * 100.0
-        / COUNT(DISTINCT wp.website_session_id) AS conversion_rate
-FROM website_pageviews wp
+        / COUNT(DISTINCT fp.website_session_id) AS conversion_rate,
+    SUM(o.price_usd) AS revenue
+FROM first_pageview fp
 LEFT JOIN orders o
-    ON wp.website_session_id = o.website_session_id
-WHERE wp.pageview_url IN (
-    '/home',
-    '/lander-1',
-    '/lander-2',
-    '/lander-3',
-    '/lander-4',
-    '/lander-5'
-)
+    ON fp.website_session_id = o.website_session_id
+WHERE fp.pageview_rank = 1
 GROUP BY
-    wp.pageview_url
+    fp.pageview_url
 ORDER BY
     conversion_rate DESC;
